@@ -30,8 +30,87 @@
     .bg-full-width.bg-fondo-2.mb-5
       .px-4.px-md-5
         p.mb-5 A continuación, se presenta los principales hitos en la evolución de la inteligencia artificial, desde sus antecedentes conceptuales en el siglo XIX hasta los avances más relevantes del siglo XX.
-        LineaTiempoA.color-acento-contenido.mb-5(:datos="datosLineaTiempoA")
-    
+
+        LineaTiempoE.color-acento-contenido.mb-5
+          .row(titulo="1842").align-items-center
+            .col-lg-8.mb-4.mb-lg-0.order-2
+              p.mb-0 <b>De los números a la poesía:</b> Ada Lovelace vio el potencial de las computadoras más allá de las matemáticas.
+            .col-lg-2.order-1
+              figure
+                img(src='@/assets/curso/temas/tema1/3.png', alt='Texto que describa la imagen')
+          .row(titulo="1921").align-items-center
+            .col-lg-8.mb-4.mb-lg-0.order-2
+              p.mb-0 <b>Se introduce la palabra '<em>robot</em>':</b> Karel Čapek visiona la definición de robots artificiales, dando origen al término <em>robot</em>.
+            .col-lg-2.order-1
+              figure
+                img(src='@/assets/curso/temas/tema1/4.png', alt='Texto que describa la imagen')
+          .row(titulo="1943").align-items-center
+            .col-lg-8.mb-4.mb-lg-0.order-2
+              p.mb-0 <b>Las neuronas se vuelven artificiales:</b> McCulloch y Pitts desarrollaron el primer modelo matemático de neuronas artificiales, sentando las bases de las redes neuronales artificiales.
+            .col-lg-2.order-1
+              figure
+                img(src='@/assets/curso/temas/tema1/5.png', alt='Texto que describa la imagen')
+          .row(titulo="1950").align-items-center
+            .col-lg-8.mb-4.mb-lg-0.order-2
+              p.mb-0 <b>Turing Test:</b> Alan Turing plantea una prueba para identificar comportamiento inteligente en las máquinas.
+            .col-lg-2.order-1
+              figure
+                img(src='@/assets/curso/temas/tema1/6.png', alt='Texto que describa la imagen')
+          .row(titulo="1956").align-items-center
+            .col-lg-8.mb-4.mb-lg-0.order-2
+              p.mb-0 <b>Nace el término inteligencia artificial:</b> John McCarthy en una conferencia de Dartmouth, usa por primera vez el término inteligencia artificial, marcando el inicio de esta disciplina.
+            .col-lg-2.order-1
+              figure
+                img(src='@/assets/curso/temas/tema1/7.png', alt='Texto que describa la imagen')
+          .row(titulo="1956").align-items-center
+            .col-lg-8.mb-4.mb-lg-0.order-2
+              p.mb-0 <b>El primer programa de IA:</b> Newell, Simón y Shaw crean <em>Logic Theorist</em>, considerado el primer programa de IA.
+            .col-lg-2.order-1
+              figure
+                img(src='@/assets/curso/temas/tema1/8.png', alt='Texto que describa la imagen')
+          .row(titulo="1961").align-items-center
+            .col-lg-8.mb-4.mb-lg-0.order-2
+              p.mb-0 <b><em>Unimate</em>:</b> George Devol diseña <em>Unimate</em>, considerado el primer robot industrial, para General Motors.
+            .col-lg-2.order-1
+              figure
+                img(src='@/assets/curso/temas/tema1/9.png', alt='Texto que describa la imagen')
+          .row(titulo="1964").align-items-center
+            .col-lg-8.mb-4.mb-lg-0.order-2
+              p.mb-0 <b>Eliza:</b> Joseph Weizenbaum crea ELIZA, el primer <em>chatbot</em> (programa informático que simula una conversación humana mediante texto).
+            .col-lg-2.order-1
+              figure
+                img(src='@/assets/curso/temas/tema1/10.png', alt='Texto que describa la imagen')
+          .row(titulo="1966").align-items-center
+            .col-lg-8.mb-4.mb-lg-0.order-2
+              p.mb-0 <b><em>Shakey</em>:</b> <em>Shakey</em> es el primer robot móvil de propósito general, capaz de analizar su entorno para razonar y planificar sus acciones según el entorno y así tomar decisiones en cuanto a sus movimientos. Marcó el camino hacia la robótica inteligente y los coches autónomos.
+            .col-lg-2.order-1
+              figure
+                img(src='@/assets/curso/temas/tema1/11.png', alt='Texto que describa la imagen')
+          .row(titulo="1974 - 1980").align-items-center
+            .col-lg-8.mb-4.mb-lg-0.order-2
+              p.mb-0 <b>Invierno IA:</b> Se invierte menos en investigación en el área, debido a que baja el interés en la IA por las limitaciones técnicas de la época.
+            .col-lg-2.order-1
+              figure
+                img(src='@/assets/curso/temas/tema1/12.png', alt='Texto que describa la imagen')
+          .row(titulo="1986").align-items-center
+            .col-lg-8.mb-4.mb-lg-0.order-2
+              p.mb-0 <b>RNNs:</b> Michael Jordán presenta una arquitectura para el aprendizaje secuencial, llamada redes neuronales <em>recurrentes</em>, diseñada para el procesamiento de información en secuencia y el aprendizaje de datos ordenados en el tiempo.
+            .col-lg-2.order-1
+              figure
+                img(src='@/assets/curso/temas/tema1/13.png', alt='Texto que describa la imagen')
+          .row(titulo="1987 - 1993").align-items-center
+            .col-lg-8.mb-4.mb-lg-0.order-2
+              p.mb-0 <b>Segundo Invierno IA:</b> Se da el segundo invierno en la IA por la combinación de expectativas no cumplidas, las limitaciones tecnológicas del momento y los fracasos comerciales que se habían tenido.
+            .col-lg-2.order-1
+              figure
+                img(src='@/assets/curso/temas/tema1/14.png', alt='Texto que describa la imagen')
+          .row(titulo="1997").align-items-center
+            .col-lg-8.mb-4.mb-lg-0.order-2
+              p.mb-0 <b><em>Deep Blue</em>:</b> <em>Deep Blue</em>, una supercomputadora creada por IBM, vence al campeón mundial de ajedrez Garry Kasparov, lo que marca un hito y hace renacer el interés por la IA.
+            .col-lg-2.order-1
+              figure
+                img(src='@/assets/curso/temas/tema1/15.png', alt='Texto que describa la imagen')
+        
     .titulo-con-imagen.mb-5(data-aos="fade-right")
       .titulo-con-imagen__fondo
         img.titulo-con-imagen__imagen(src="@/assets/componentes/1.svg")
@@ -373,86 +452,6 @@ export default {
   name: 'Tema1',
   data: () => ({
     mostrarIndicadorTarjetaAudio: true,
-    datosLineaTiempoA: [
-      {
-        ano: '1842',
-        titulo: 'De los números a la poesía',
-        texto:
-          'Ada Lovelace vio el potencial de las computadoras más allá de las matemáticas.',
-      },
-      {
-        ano: '1921',
-        titulo: 'Se introduce la palabra "robot"',
-        texto:
-          'Karel Čapek visiona la definición de robots artificiales, dando origen al término robot.',
-      },
-      {
-        ano: '1943',
-        titulo: 'Las neuronas se vuelven artificiales',
-        texto:
-          'McCulloch y Pitts desarrollaron el primer modelo matemático de neuronas artificiales, sentando las bases de las redes neuronales artificiales.',
-      },
-      {
-        ano: '1950',
-        titulo: 'Turing Test',
-        texto:
-          'Alan Turing plantea una prueba para identificar comportamiento inteligente en las máquinas.',
-      },
-      {
-        ano: '1956',
-        titulo: 'Nace el término inteligencia artificial',
-        texto:
-          'John McCarthy en una conferencia de Dartmouth, usa por primera vez el término inteligencia artificial, marcando el inicio de esta disciplina.',
-      },
-      {
-        ano: '1956',
-        titulo: 'El primer programa de IA',
-        texto:
-          'Newell, Simón y Shaw crean Logic Theorist, considerado el primer programa de IA.',
-      },
-      {
-        ano: '1961',
-        titulo: 'Unimate.',
-        texto:
-          'George Devol diseña Unimate, considerado el primer robot industrial, para General Motors',
-      },
-      {
-        ano: '1964',
-        titulo: 'Eliza',
-        texto:
-          'Joseph Weizenbaum crea ELIZA, el primer chatbot (programa informático que simula una conversación humana mediante texto).',
-      },
-      {
-        ano: '1966',
-        titulo: 'Shakey',
-        texto:
-          'Shakey es el primer robot móvil de propósito general, capaz de analizar su entorno para razonar y planificar sus acciones según el entorno y así tomar decisiones en cuanto a sus movimientos. Marcó el camino hacia la robótica inteligente y los coches autónomos.',
-      },
-      {
-        ano: '1974 - 1980',
-        titulo: 'Invierno IA',
-        texto:
-          'Se invierte menos en investigación en el área, debido a que baja el interés en la IA por las limitaciones técnicas de la época.',
-      },
-      {
-        ano: '1986',
-        titulo: 'RNNs',
-        texto:
-          'Michael Jordán presenta una arquitectura para el aprendizaje secuencial, llamada redes neuronales recurrentes, diseñada para el procesamiento de información en secuencia y el aprendizaje de datos ordenados en el tiempo.',
-      },
-      {
-        ano: '1987 - 1993',
-        titulo: 'Segundo Invierno IA',
-        texto:
-          'Se da el segundo invierno en la IA por la combinación de expectativas no cumplidas, las limitaciones tecnológicas del momento y los fracasos comerciales que se habían tenido.',
-      },
-      {
-        ano: '1997',
-        titulo: 'Deep Blue',
-        texto:
-          'Deep Blue, una supercomputadora creada por IBM, vence al campeón mundial de ajedrez Garry Kasparov, lo que marca un hito y hace renacer el interés por la IA.',
-      },
-    ],
   }),
   mounted() {
     this.$nextTick(() => {
