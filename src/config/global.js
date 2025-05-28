@@ -206,7 +206,7 @@ export default {
         'es el uso de tecnologías y sistemas para realizar tareas sin intervención humana directa. En el contexto de la inteligencia artificial, la automatización se refiere a la capacidad de los modelos de IA para realizar tareas repetitivas o complejas de manera eficiente, como el procesamiento de datos, la generación de informes, o la optimización de procesos. Esto aumenta la productividad y reduce la posibilidad de errores humanos.',
     },
     {
-      termino: 'Desarrollo Tecnológico',
+      termino: 'Desarrollo tecnológico',
       significado:
         'se refiere al proceso de creación e innovación en el uso de tecnologías para mejorar productos, servicios y procesos. En el ámbito de la IA, el desarrollo tecnológico implica la creación de nuevos algoritmos, modelos de aprendizaje automático y aplicaciones innovadoras que aprovechan las capacidades de la inteligencia artificial para resolver problemas complejos y mejorar la calidad de vida.',
     },
@@ -228,7 +228,7 @@ export default {
     {
       termino: '<em>Prompt</em>',
       significado:
-        'es una instrucción o entrada proporcionada a un modelo de IA generativa para guiar la generación de respuestas o resultados específicos. Los <em>Prompt</em>s pueden variar en complejidad y deben ser formulados de manera clara y precisa para obtener respuestas adecuadas. En el contexto de la IA, un <em>Prompt</em> puede ser una pregunta, instrucción o descripción de lo que se espera del modelo.',
+        'es una instrucción o entrada proporcionada a un modelo de IA generativa para guiar la generación de respuestas o resultados específicos. Los <em>prompts</em> pueden variar en complejidad y deben ser formulados de manera clara y precisa para obtener respuestas adecuadas. En el contexto de la IA, un <em>prompt</em> puede ser una pregunta, instrucción o descripción de lo que se espera del modelo.',
     },
     {
       termino: 'Transformador de lenguaje',
