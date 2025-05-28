@@ -417,7 +417,7 @@ export default {
         {
           id: 14,
           texto:
-            'Las técnicas de <em>Prompt</em>ing ayudan a mejorar la interacción con modelos de IA generativa.',
+            'Las técnicas de <em>prompting</em> ayudan a mejorar la interacción con modelos de IA generativa.',
           imagen: require('@/assets/actividad/imagen4.png'),
           barajarRespuestas: true,
           opciones: [
@@ -438,7 +438,7 @@ export default {
         {
           id: 15,
           texto:
-            'Un <em>Prompt</em> efectivo es siempre corto, sin contexto y sin instrucciones claras.',
+            'Un <em>prompt</em> efectivo es siempre corto, sin contexto y sin instrucciones claras.',
           imagen: require('@/assets/actividad/imagen4.png'),
           barajarRespuestas: true,
           opciones: [
