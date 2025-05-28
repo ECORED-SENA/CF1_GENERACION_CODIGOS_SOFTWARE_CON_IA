@@ -17,16 +17,16 @@
             .col-lg-auto
               img(src="@/assets/curso/temas/tema3/2.png", style="max-width: 90px").mx-auto
             .col-lg
-              p.mb-0 Cuando se hace referencia a un <em>Prompt</em> en inteligencia artificial, se habla de la instrucción que se le proporciona a la IA gen para que, con base en ella, genere una respuesta precisa según la tarea solicitada. Esta respuesta puede estar en formato de texto, traducción, imagen, video, audio u otro tipo de contenido que la herramienta esté diseñada para producir. La calidad del <em>Prompt</em> influye directamente en la precisión de la respuesta: un <em>Prompt</em> bien formulado permite obtener resultados útiles, mientras que uno confuso o incompleto puede generar errores o respuestas poco relevantes.
+              p.mb-0 Cuando se hace referencia a un <em>prompt</em> en inteligencia artificial, se habla de la instrucción que se le proporciona a la IA gen para que, con base en ella, genere una respuesta precisa según la tarea solicitada. Esta respuesta puede estar en formato de texto, traducción, imagen, video, audio u otro tipo de contenido que la herramienta esté diseñada para producir. La calidad del <em>prompt</em> influye directamente en la precisión de la respuesta: un <em>prompt</em> bien formulado permite obtener resultados útiles, mientras que uno confuso o incompleto puede generar errores o respuestas poco relevantes.
 
-        p(data-aos="fade-left") Herramientas como <em>Prompt</em> <em>Storm</em> y <em>Prompt</em>Base son de gran utilidad para mejorar la redacción de <em>Prompt</em>s y optimizar la interacción con la IA gen (PBS, 2024). Parte del éxito en el aprovechamiento de las capacidades de una IA gen radica en la redacción de un buen <em>Prompt</em>. Una instrucción clara y bien estructurada permite delegar efectivamente la tarea a la herramienta, mientras que una formulación deficiente traslada la carga de responsabilidad al usuario.  Un <em>Prompt</em> puede estar compuesto por uno o varios elementos, entre los cuales se encuentran:
+        p(data-aos="fade-left") Herramientas como <em>Prompt</em> <em>Storm</em> y <em>Prompt</em>Base son de gran utilidad para mejorar la redacción de <em>prompt</em>s y optimizar la interacción con la IA gen (PBS, 2024). Parte del éxito en el aprovechamiento de las capacidades de una IA gen radica en la redacción de un buen <em>prompt</em>. Una instrucción clara y bien estructurada permite delegar efectivamente la tarea a la herramienta, mientras que una formulación deficiente traslada la carga de responsabilidad al usuario.  Un <em>prompt</em> puede estar compuesto por uno o varios elementos, entre los cuales se encuentran:
     
     TabsB.color-acento-contenido.mb-5
       .py-4.py-md-5(titulo="Contexto" :icono="require('@/assets/bullets/1.svg')")
         .row.align-items-center
           .col-md-7.mb-4.mb-md-0.order-lg-2
             h4 Contexto
-            p.mb-0 Le da un direccionamiento al <em>Prompt</em>, eso quiere decir que entre más claridad y detalle se tenga sobre el contexto, más precisa será la respuesta generada. Dar información como el estilo, el tono, el lugar, el propósito, los requisitos, el lenguaje o cualquier otro dato adicional ayudarán a dirigir el modelo hacía lo que realmente se necesita y se espera de la IA gen.
+            p.mb-0 Le da un direccionamiento al <em>prompt</em>, eso quiere decir que, entre más claridad y detalle se tenga sobre el contexto, más precisa será la respuesta generada. Dar información como el estilo, el tono, el lugar, el propósito, los requisitos, el lenguaje o cualquier otro dato adicional ayudará a dirigir el modelo hacia lo que realmente se necesita y se espera de la IA gen.
         
           .col-md-5.order-lg-1
             figure
@@ -35,7 +35,7 @@
         .row.align-items-center
           .col-md-7.mb-4.mb-md-0.order-lg-2
             h4 Datos de entrada
-            p.mb-0 Hace referencia a la información o pregunta específica que se le da al modelo, para que este genere la respuesta esperada o realice la acción solicitada. Hay que tener claro que tipos de datos o preguntas se le están dando al modelo, porque de esto también depende la precisión y relevancia de la respuesta que la IA gen de al usuario.
+            p.mb-0 Hace referencia a la información o pregunta específica que se le da al modelo, para que este genere la respuesta esperada o realice la acción solicitada. Hay que tener claro qué tipos de datos o preguntas se le están dando al modelo, porque de esto también depende la precisión y relevancia de la respuesta que la IA gen dé al usuario.
         
           .col-md-5.order-lg-1
             figure
@@ -55,12 +55,12 @@
       .col-lg-auto
         img(src="@/assets/curso/temas/tema3/6.png", style="max-width: 90px").mx-auto
       .col-lg.text-white
-        p.mb-0 Es importante tener en cuenta que no todos los componentes de un <em>Prompt</em> serán necesarios en cada caso. Sin embargo, cuanto más compleja sea la tarea asignada a la IA gen, más detallada y completa deberá ser la redacción del <em>Prompt</em>, especialmente si se espera obtener una respuesta clara, coherente y ajustada a lo solicitado.
+        p.mb-0 Es importante tener en cuenta que no todos los componentes de un <em>prompt</em> serán necesarios en cada caso. Sin embargo, cuanto más compleja sea la tarea asignada a la IA gen, más detallada y completa deberá ser la redacción del <em>Prompt</em>, especialmente si se espera obtener una respuesta clara, coherente y ajustada a lo solicitado.
 
     separador
 
     #t_3_1.titulo-segundo.color-acento-contenido(data-aos="flip-up")
-      h2 3.1 Principios de <em>Prompt</em>ing  
+      h2 3.1 Principios de <em>prompting</em>  
     
     .row.mb-5
       .col-lg-4.order-lg-2.mb-3.mb-lg-0
@@ -68,7 +68,7 @@
           img(src="@/assets/curso/temas/tema3/7.png", data-aos="zoom-in")
       .col-lg-8.order-lg-1
         .bg-color-4.p-4.mb-5(data-aos="fade-left")
-          p.mb-0 La calidad de los resultados generados por un modelo de lenguaje grande (LLM) depende en gran medida de cómo se formulan las instrucciones, o <em>Prompt</em>s, que se le proporcionan. Factores como la especificidad, la claridad y el contexto son fundamentales para que el modelo comprenda correctamente la tarea asignada y genere respuestas relevantes y precisas.
+          p.mb-0 La calidad de los resultados generados por un modelo de lenguaje grande (LLM) depende en gran medida de cómo se formulan las instrucciones, o <em>prompts</em>, que se le proporcionan. Factores como la especificidad, la claridad y el contexto son fundamentales para que el modelo comprenda correctamente la tarea asignada y genere respuestas relevantes y precisas.
         p(data-aos="fade-left") Con el fin de mejorar la interacción entre los usuarios y los modelos de IA gen, el artículo “<em>Principled Instructions Are All You Need for Questioning LLaMA-1/2, GPT-3.5/4</em>” presenta 26 principios de incitación, diseñados para guiar la redacción de instrucciones más efectivas. Estos principios proponen un enfoque estructurado que contribuye a aumentar la precisión y pertinencia de las respuestas generadas.
         p A continuación, se comparten los principios más relevantes, acompañados de ejemplos que facilitan su comprensión y aplicación práctica.
     
@@ -82,17 +82,17 @@
             p Si se quieren respuestas concisas, no es necesario ser educado con la IA, así que las palabras (gracias, por favor, si no te importa, me gustaría, etc.) están sobrando, así que el usuario debe ir directo al grano. 
             p.mb-0 <b>Ejemplo:</b> ¿Cuál es la capital de Colombia?
           div(titulo="Definir la audiencia")
-            p Hay que tener identificado el público al cual va dirigido el <em>Prompt</em>, para poder darle un contexto, y así especificárselo a la IA. 
-            p.mb-0 <b>Ejemplo:</b> Explica el concepto de programación estructurada a un experto en desarrollo de <em>software</em>.
+            p Hay que tener identificado el público al cual va dirigido el <em>prompt</em>, para poder darle un contexto, y así especificárselo a la IA. 
+            p.mb-0 <b>Ejemplo:</b> explica el concepto de programación estructurada a un experto en desarrollo de <em>software</em>.
           div(titulo="Divida las tareas complejas")
-            p Cuando la tarea a solicitar es compleja, lo mejor es dividir el <em>Prompt</em> en una serie de tareas más simples. 
-            p.mb-0 <b>Ejemplo:</b> Primero, explica qué es un algoritmo, luego cómo está conformado y por último cuál es su importancia en el desarrollo de <em>software</em>.
+            p Cuando la tarea a solicitar es compleja, lo mejor es dividir el <em>prompt</em> en una serie de tareas más simples. 
+            p.mb-0 <b>Ejemplo:</b> primero, explica qué es un algoritmo, luego cómo está conformado y por último, cuál es su importancia en el desarrollo de <em>software</em>.
           div(titulo="Utilice directivas afirmativas")
             p Utiliza directrices afirmativas como “haz esto” mientras evitas lenguaje negativo como “no lo hagas”. 
-            p.mb-0 <b>Ejemplo:</b> Dime la lista de los municipios que conforman al departamento de La Guajira.
+            p.mb-0 <b>Ejemplo:</b> dime la lista de los municipios que conforman al departamento de La Guajira.
           div(titulo="Solicitar claridad")
-            pdo se desee comprender un tema de la mejor manera, formula la pregunta de forma simple y pídele a la IA que también te responda en una forma simple y sencilla, sin complicar la explicación. 
-            p.mb-0 <b>Ejemplo:</b> Explícale cómo funciona un teléfono móvil a un niño de 5 años.
+            pdo Cuando se desee comprender un tema de la mejor manera, formula la pregunta de forma simple y pídele a la IA que también te responda en una forma simple y sencilla, sin complicar la explicación. 
+            p.mb-0 <b>Ejemplo:</b> explícale cómo funciona un teléfono móvil a un niño de 5 años.
     
     .row.mb-5.align-items-center.mb-5
       .col-lg-4.mb-3.mb-lg-0.order-lg-2
@@ -102,21 +102,21 @@
         AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta bg-color-7")
           div(titulo="Utilice indicaciones basadas en ejemplos")
             p Proporciona un ejemplo de lo que solicita, junto con la instrucción solicitada. 
-            p.mb-0 <b>Ejemplo:</b> Escribe una poesía sobre la tierra. Tienes de guía este ejemplo: “La arena que piso, delimita el camino que busco recorrer”.
+            p.mb-0 <b>Ejemplo:</b> escribe una poesía sobre la tierra. Tienes de guía este ejemplo: “La arena que piso, delimita el camino que busco recorrer”.
           div(titulo="Aclarar las tareas")
-            p Para mayor claridad del <em>Prompt</em>, puede especificarle la misión, diciéndole: “Su tarea es” y “Usted debe”. 
-            p.mb-0 <b>Ejemplo:</b> Su tarea es hablar sobre los lenguajes de programación. Debe incluir un listado de los 10 lenguajes más populares en los años 2022, 2023 y 2024.
+            p Para mayor claridad del <em>prompt</em>, puede especificarle la misión, diciéndole: “Su tarea es” y “Usted debe”. 
+            p.mb-0 <b>Ejemplo:</b> su tarea es hablar sobre los lenguajes de programación. Debe incluir un listado de los 10 lenguajes más populares en los años 2022, 2023 y 2024.
           div(titulo="Solicita respuesta similares a las de un humano")
-            p Dentro del <em>Prompt</em>, incluye la frase: “Responde la pregunta de manera natural, como la de un humano”. 
+            p Dentro del <em>prompt</em>, incluye la frase: “Responde la pregunta de manera natural, como la de un humano”. 
             p.mb-0 <b>Ejemplo:</b> ¿Explica el procesamiento de datos en informática? Responde como un humano.
           div(titulo="Fomentar el pensamiento paso a paso")
-            p Al darle el <em>Prompt</em>, incluir frases como “piensa paso a paso”. 
-            p.mb-0 <b>Ejemplo:</b> Piensa paso a paso y explícame cómo desarrollar un algoritmo que sume dos números.
+            p Al darle el <em>prompt</em>, incluir frases como “piensa paso a paso”. 
+            p.mb-0 <b>Ejemplo:</b> piensa paso a paso y explícame cómo desarrollar un algoritmo que sume dos números.
           div(titulo="Promover respuestas imparciales")
-            p Incluye en el <em>Prompt</em> frases como: “Asegúrate de que la respuesta sea imparcial y no esté basada en estereotipos”. 
-            p.mb-0 <b>Ejemplo:</b> Háblame sobre la política en los últimos 20 años en Colombia. Asegúrate de que la respuesta sea imparcial y no esté basada en estereotipos.
+            p Incluye en el <em>prompt</em> frases como: “Asegúrate de que la respuesta sea imparcial y no esté basada en estereotipos”. 
+            p.mb-0 <b>Ejemplo:</b> háblame sobre la política en los últimos 20 años en Colombia. Asegúrate de que la respuesta sea imparcial y no esté basada en estereotipos.
     
-    p.mb-5 Algunas estrategias adicionales que enriquecen la formulación de <em>Prompt</em>s, favorecen el diálogo continuo y mejoran la calidad de las respuestas generadas son: 
+    p.mb-5 Algunas estrategias adicionales que enriquecen la formulación de <em>prompts</em>, favorecen el diálogo continuo y mejoran la calidad de las respuestas generadas son: 
 
     .bg-full-width.bg-fondo-slider.mb-5
       .p-4.p-md-5
@@ -128,7 +128,7 @@
             .col-lg-7
               h5 Facilitar el diálogo
               p Mientras se interactúa con la IA, permite que esta recolecte datos precisos, haciéndole preguntas, hasta que tenga la información necesaria para proporcionar la mejor respuesta a la necesidad generada. 
-              p.mb-0 <b>Ejemplo:</b> Necesito que me ayudes a hacer un proyecto, me gustaría que me hicieras preguntas para que conozcas mis necesidades, antes de darte una respuesta sobre lo que deseo de mi proyecto.
+              p.mb-0 <b>Ejemplo:</b> necesito que me ayudes a hacer un proyecto, me gustaría que me hicieras preguntas para que conozcas mis necesidades, antes de darte una respuesta sobre lo que deseo de mi proyecto.
     
           .row.align-items-center.p-4.p-md-5
             .col-lg-5.mb-3.mb-lg-0
@@ -136,8 +136,8 @@
                 img(src="@/assets/curso/temas/tema3/11.png")
             .col-lg-7
               h5 Enseñar con exámenes
-              p Cuando se quiere utilizar la IA para estudiar, o se desea profundizar en un tema en particular, plantee el <em>Prompt</em> con frases como “Enséñame sobre el tema X e incluye un examen al final sin las respuestas”. 
-              p.mb-0 <b>Ejemplo:</b> Enséñame sobre pseudocódigos e incluye un examen al final sin las respuestas.
+              p Cuando se quiere utilizar la IA para estudiar, o se desea profundizar en un tema en particular, plantee el <em>prompt</em> con frases como “Enséñame sobre el tema X e incluye un examen al final sin las respuestas”. 
+              p.mb-0 <b>Ejemplo:</b> enséñame sobre pseudocódigos e incluye un examen al final sin las respuestas.
           .row.align-items-center.p-4.p-md-5
             .col-lg-5.mb-3.mb-lg-0
               figure
@@ -145,14 +145,14 @@
             .col-lg-7
               h5 Asignar roles
               p Para que la IA actúe con mayor conocimiento o experiencia en un contexto en específico, asígnele un rol. 
-              p.mb-0 <b>Ejemplo:</b> Como experto en Ingeniería de <em>software</em>, necesito que me expliques el marco de trabajo SCRUM.
+              p.mb-0 <b>Ejemplo:</b> como experto en Ingeniería de <em>software</em>, necesito que me expliques el marco de trabajo <em>SCRUM</em>.
           .row.align-items-center.p-4.p-md-5
             .col-lg-5.mb-3.mb-lg-0
               figure
                 img(src="@/assets/curso/temas/tema3/13.png")
             .col-lg-7
               h5 Utilice delimitadores
-              p Los delimitadores (###_____###) pueden darle a la IA diferentes ideas de las divisiones o secciones que contiene el <em>Prompt</em>. 
+              p Los delimitadores (###_____###) pueden darle a la IA diferentes ideas de las divisiones o secciones que contiene el <em>prompt</em>. 
               p.mb-0 <b>Ejemplo:</b> ###Tarea### Escribe un resumen de la novela Cien años de soledad. ###Detalles### Céntrate en el personaje de Aureliano Buendía y sus motivaciones políticas.
           .row.align-items-center.p-4.p-md-5
             .col-lg-5.mb-3.mb-lg-0
@@ -160,8 +160,8 @@
                 img(src="@/assets/curso/temas/tema3/14.png")
             .col-lg-7
               h5 Repetir términos clave
-              p Repetir palabras o frases en varias ocasiones dentro del mensaje que comprende el <em>Prompt</em>, con el fin de darles relevancia. 
-              p.mb-0 <b>Ejemplo:</b> Escribe un algoritmo que calcule si un número es par. El algoritmo debe verificar si el número es par, es decir, si es divisible por 2. 
+              p Repetir palabras o frases en varias ocasiones dentro del mensaje que comprende el <em>prompt</em>, con el fin de darles relevancia. 
+              p.mb-0 <b>Ejemplo:</b> escribe un algoritmo que calcule si un número es par. El algoritmo debe verificar si el número es par, es decir, si es divisible por 2. 
           .row.align-items-center.p-4.p-md-5
             .col-lg-5.mb-3.mb-lg-0
               figure
@@ -169,7 +169,7 @@
             .col-lg-7
               h5 Combinar técnicas
               p Cuando se necesitan respuestas más elaboradas o profundas, se recomienda combinar el razonamiento paso a paso (cadena de pensamiento - CoT) con instrucciones claras. 
-              p.mb-0 <b>Ejemplo:</b> Piensa paso a paso en cómo escribir un algoritmo para ordenar una lista de números en orden ascendente. Aquí te dejo un ejemplo de lo que debes incluir: inicializar la lista, comparar los elementos, intercambiarlos si es necesario y mostrar la lista ordenada.
+              p.mb-0 <b>Ejemplo:</b> piensa paso a paso en cómo escribir un algoritmo para ordenar una lista de números en orden ascendente. Aquí te dejo un ejemplo de lo que debes incluir: inicializar la lista, comparar los elementos, intercambiarlos si es necesario y mostrar la lista ordenada.
           .row.align-items-center.p-4.p-md-5
             .col-lg-5.mb-3.mb-lg-0
               figure
@@ -177,7 +177,7 @@
             .col-lg-7
               h5 Revisar sin cambiar el estilo
               p Cuando se desea mejorar un texto existente, manteniendo el tono y el estilo original, se le puede solicitar a la IA que revise cada párrafo, mejorando únicamente la gramática y el vocabulario. 
-              p.mb-0 <b>Ejemplo:</b> Revisa el siguiente texto, corrige ortografía y gramática sin cambiar su estilo: “XXXXXXXXXXXXX”.
+              p.mb-0 <b>Ejemplo:</b> revisa el siguiente texto, corrige ortografía y gramática sin cambiar su estilo: “XXXXXXXXXXXXX”.
           .row.align-items-center.p-4.p-md-5
             .col-lg-5.mb-3.mb-lg-0
               figure
@@ -185,7 +185,7 @@
             .col-lg-7
               h5 Gestionar indicaciones de código complejas
               p Cuando se trata de tareas de codificación que incluyan varios archivos, proporcione instrucciones claras e identifique lo que debe hacer la IA. 
-              p.mb-0 <b>Ejemplo:</b> Escribe un script en Python que lea dos archivos CSV, combine sus datos en uno solo y guarde el archivo resultante en un nuevo archivo CSV.  
+              p.mb-0 <b>Ejemplo:</b> escribe un <em>script</em> en Python que lea dos archivos CSV, combine sus datos en uno solo y guarde el archivo resultante en un nuevo archivo CSV.  
     
     .titulo-con-imagen.mb-5(data-aos="fade-right")
       .titulo-con-imagen__fondo
@@ -218,7 +218,7 @@
               figure
                 img(src='@/assets/curso/temas/tema3/20.png', alt='Texto que describa la imagen')
           h3.text-center Más detalles
-          p.mb-0 Profundiza en las proyecciones financieras, da detalles de estimados de ingresos y costos
+          p.mb-0 Profundiza en las proyecciones financieras, da detalles de estimados de ingresos y costos.
       .col-sm-6.col-lg-3
         .tarjeta--boton.color-secundario.p-4.h-100
           .row.justify-content-center.mb-3
@@ -234,9 +234,9 @@
           img(src="@/assets/curso/temas/tema3/22.png", data-aos="zoom-in")
       .col-lg-8
         
-        p(data-aos="fade-left") Aunque se han compartido diversos principios de <em>Prompt</em>ing, es importante aclarar que no son los únicos existentes. A medida que los usuarios interactúan con la IA gen, pueden ir adquiriendo experiencia y descubriendo las formas que mejores resultados les ofrecen, lo que les permitirá optimizar su trabajo. Esta práctica continua también puede facilitar la creación de plantillas personalizadas de <em>Prompt</em>s, que podrán guardar y reutilizar según la temática, el contexto, el formato o la necesidad específica.
+        p(data-aos="fade-left") Aunque se han compartido diversos principios de <em>prompting</em>, es importante aclarar que no son los únicos existentes. A medida que los usuarios interactúan con la IA gen, pueden ir adquiriendo experiencia y descubriendo las formas que mejores resultados les ofrecen, lo que les permitirá optimizar su trabajo. Esta práctica continua también puede facilitar la creación de plantillas personalizadas de <em>prompts</em>, que podrán guardar y reutilizar según la temática, el contexto, el formato o la necesidad específica.
         .bg-color-8.px-4.py-5(data-aos="fade-left")
-          p.mb-0 En conjunto, los principios de <em>Prompt</em>ing se consolidan como estrategias fundamentales para que los usuarios interactúen de manera precisa con los distintos modelos de inteligencia artificial generativa. Aplicarlos permite obtener resultados más relevantes, coherentes y ajustados a los objetivos planteados.
+          p.mb-0 En conjunto, los principios de <em>prompting</em> se consolidan como estrategias fundamentales para que los usuarios interactúen de manera precisa con los distintos modelos de inteligencia artificial generativa. Aplicarlos permite obtener resultados más relevantes, coherentes y ajustados a los objetivos planteados.
 
     separador
 
@@ -253,7 +253,7 @@
             .col-lg-auto
               img(src="@/assets/curso/temas/tema3/24.png", style="max-width: 90px").mx-auto
             .col-lg
-              p.mb-0 Quienes deseen aprovechar al máximo las capacidades que ofrecen tecnologías avanzadas como la IA gen, deben desarrollar habilidades que les permitan interactuar con ellas de manera eficaz. Una de las formas más efectivas de lograrlo es mediante el uso de <em>Prompt</em>s bien estructurados, los cuales permiten obtener respuestas precisas y coherentes, mejorando la experiencia del usuario y los resultados obtenidos.
+              p.mb-0 Quienes deseen aprovechar al máximo las capacidades que ofrecen tecnologías avanzadas como la IA gen, deben desarrollar habilidades que les permitan interactuar con ellas de manera eficaz. Una de las formas más efectivas de lograrlo es mediante el uso de <em>prompts</em> bien estructurados, los cuales permiten obtener respuestas precisas y coherentes, mejorando la experiencia del usuario y los resultados obtenidos.
 
         p(data-aos="fade-left") A continuación, se presentan algunas técnicas de mejora que pueden aplicarse en la interacción con modelos de IA gen, con el propósito de optimizar la calidad de las respuestas y, en consecuencia, maximizar la productividad en las tareas asignadas.
         
@@ -263,19 +263,19 @@
           img(src="@/assets/curso/temas/tema3/25.png", data-aos="zoom-in")
       .col-lg-9
         AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta bg-color-7")
-          div(titulo="Diseño de <em>Prompt</em>s eficientes")
-            p Para el diseño de un <em>Prompt</em> eficiente, para una interacción óptima se pueden seguir estos principios fundamentales: 
+          div(titulo="Diseño de <em>prompts</em> eficientes")
+            p Para el diseño de un <em>prompt</em> eficiente, para una interacción óptima se pueden seguir estos principios fundamentales: 
             ul.lista-ul--color
               li.mb-0.d-flex
                 i.fas.fa-circle-check.bg-color-9
                 p.mb-0 <b>Claridad y concisión:</b> hay que ser claro en lo que se pide, evitando ambigüedades, utilizando un lenguaje preciso para que la IA gen pueda entender exactamente lo que se está necesitando. Evite caer en preguntas vagas o demasiado generales. Especifique la tarea, el contexto, el formato, etc. 
               li.mb-0.d-flex
                 i.fas.fa-circle-check.bg-color-9
-                p.mb-0 <b>Contextualización:</b> proporciona suficiente información sobre el contexto, para que la IA gen entienda el propósito y el ambiente en donde se desarrolla la tarea y el público objetivo. Específica el estilo, ya sea formal, técnico o conversacional.
+                p.mb-0 <b>Contextualización:</b> proporciona suficiente información sobre el contexto, para que la IA gen entienda el propósito y el ambiente en donde se desarrolla la tarea y el público objetivo. Especifica el estilo, ya sea formal, técnico o conversacional.
           div(titulo="Uso de ejemplos para mejorar respuestas")
-            p Una técnica efectiva consiste en proporcionar ejemplos determinados (cuando se tienen) a la IA, para que tenga un modelo concreto de lo que se espera. Con los ejemplos el modelo puede ser guiado en la generación de las respuestas más apegada a lo que se espera de ellas.
+            p Una técnica efectiva consiste en proporcionar ejemplos determinados (cuando se tienen) a la IA, para que tenga un modelo concreto de lo que se espera. Con los ejemplos, el modelo puede ser guiado en la generación de las respuestas más apegadas a lo que se espera de ellas.
           div(titulo="Iteración y refinamiento")
-            p Muchas veces la primera respuesta que se obtiene de la IA gen no es la perfecta, especialmente cuando se trata de tareas complejas; por ello, el iterar o ir ajustando el <em>Prompt</em>, se convierte en una técnica fundamental para ir perfeccionado los resultados. De ahí, que la importancia de esta técnica radica en ir evaluando la respuesta generada, para ver si satisface las necesidades del <em>Prompt</em> asignado y del problema del usuario. Cuando se considera que la respuesta generada se puede seguir mejorando, se va ajustando el <em>Prompt</em>, para ello se le puede ir anexando contexto, detalles o aclaraciones, o cualquier información adicional que lleve a la IA gen a entender mucho mejor. Esta técnica se puede ir usando continuamente, hasta que logre la generación de la respuesta que le satisfaga.
+            p Muchas veces la primera respuesta que se obtiene de la IA gen no es la perfecta, especialmente cuando se trata de tareas complejas; por ello, el iterar o ir ajustando el <em>prompt</em>, se convierte en una técnica fundamental para ir perfeccionando los resultados. De ahí, que la importancia de esta técnica radica en ir evaluando la respuesta generada, para ver si satisface las necesidades del <em>prompt</em> asignado y del problema del usuario. Cuando se considera que la respuesta generada se puede seguir mejorando, se va ajustando el <em>prompt</em>, para ello se le puede ir anexando contexto, detalles o aclaraciones, o cualquier información adicional que lleve a la IA gen a entender mucho mejor. Esta técnica se puede ir usando continuamente, hasta que logre la generación de la respuesta que le satisfaga.
           
     
     .row.mb-5.align-items-center.mb-5
@@ -287,7 +287,7 @@
           div(titulo="Comandos específicos y tareas definidas")
             p Cuando se trata de tareas técnicas, tales como desarrollo de <em>software</em>, optimización de procesos o alguna tarea especializada, es de vital importancia especificar el tipo de resultado que se espera; como por ejemplo, especificarle si desea que la IA gen escriba un código, depure, genere una documentación, aplique una técnica o procedimiento en especial, se apoye en una metodología o un marco de trabajo determinado, etc.
           div(titulo="Comprensión de las limitaciones")
-            p Para nadie es un secreto el poder y la fortaleza de la que goza la IA, pero aun así tiene sus limitaciones, por lo tanto, es primordial tener en cuenta que estos modelos pueden generar respuestas erróneas o inconsistentes; sobre todo cuando el <em>Prompt</em> implementado es ambiguo o la tarea asignada a la IA gen se encuentra fuera del alcance de su entrenamiento. Para ello, cada vez que sea posible, se recomienda validar la respuesta generada, especialmente cuando se trabaja en contextos críticos, entre las que se pueden mencionar las áreas médicas, legales o financieras.
+            p Para nadie es un secreto el poder y la fortaleza de la que goza la IA, pero aun así tiene sus limitaciones, por lo tanto, es primordial tener en cuenta que estos modelos pueden generar respuestas erróneas o inconsistentes; sobre todo cuando el <em>prompt</em> implementado es ambiguo o la tarea asignada a la IA gen se encuentra fuera del alcance de su entrenamiento. Para ello, cada vez que sea posible, se recomienda validar la respuesta generada, especialmente cuando se trabaja en contextos críticos, entre los que se pueden mencionar las áreas médicas, legales o financieras.
     
 
     separador

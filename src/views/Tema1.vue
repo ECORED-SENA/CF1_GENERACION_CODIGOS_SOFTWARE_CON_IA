@@ -19,7 +19,7 @@
             .col-lg-auto
               img(src="@/assets/curso/temas/tema1/2.png", style="max-width: 90px").mx-auto
             .col-lg
-              p.mb-0 Un ejemplo claro de su funcionamiento es cuando se le habla al teléfono y este responde con la acción solicitada, demostrando que ha interpretado correctamente el mensaje. Otro caso cotidiano es el sistema de recomendaciones de YouTube, que sugiere videos relacionados con los que ya se han reproducido anteriormente.
+              p.mb-0 Un ejemplo claro de su funcionamiento es cuando se le habla al teléfono y este responde con la acción solicitada, demostrando que ha interpretado correctamente el mensaje. Otro caso cotidiano es el sistema de recomendaciones de YouTube, que sugiere videos relacionados con los que ya se han riormente.
         p(data-aos="fade-left") Está demostrado que el objetivo de la inteligencia artificial no se limita a la automatización de tareas. Por el contrario, busca un mejoramiento continuo, perfeccionándose mediante el aprendizaje obtenido a través del análisis de datos. Esto la convierte en una herramienta fundamental para abordar problemas cada vez más complejos. A diferencia de los humanos, estas máquinas no se fatigan y pueden trabajar de manera constante mientras reciban energía, lo que las hace especialmente valiosas en áreas como la salud, la educación, el trabajo y otros ámbitos donde su aplicación es requerida.
     
     separador
@@ -29,7 +29,7 @@
     
     .bg-full-width.bg-fondo-2.mb-5
       .px-4.px-md-5
-        p.mb-5 A continuación, se presenta los principales hitos en la evolución de la inteligencia artificial, desde sus antecedentes conceptuales en el siglo XIX hasta los avances más relevantes del siglo XX.
+        p.mb-5 A continuación, se presentan los principales hitos en la evolución de la inteligencia artificial, desde sus antecedentes conceptuales en el siglo XIX hasta los avances más relevantes del siglo XX.
 
         LineaTiempoE.color-acento-contenido.mb-5
           .row(titulo="1842").align-items-center
@@ -94,7 +94,7 @@
                 img(src='@/assets/curso/temas/tema1/12.png', alt='Texto que describa la imagen')
           .row(titulo="1986").align-items-center
             .col-lg-8.mb-4.mb-lg-0.order-2
-              p.mb-0 <b>RNNs:</b> Michael Jordán presenta una arquitectura para el aprendizaje secuencial, llamada redes neuronales <em>recurrentes</em>, diseñada para el procesamiento de información en secuencia y el aprendizaje de datos ordenados en el tiempo.
+              p.mb-0 <b>RNNs:</b> Michael Jordán presenta una arquitectura para el aprendizaje secuencial, llamada redes neuronales recurrentes, diseñada para el procesamiento de información en secuencia y el aprendizaje de datos ordenados en el tiempo.
             .col-lg-2.order-1
               figure
                 img(src='@/assets/curso/temas/tema1/13.png', alt='Texto que describa la imagen')
@@ -127,7 +127,7 @@
           .row(titulo="2002").justify-content-center.align-items-center
             .col-md-6.mb-4.mb-md-0
               h5 2002
-              p.mb-0 Roomba: Sale al mercado Roomba, línea de robots aspiradores, de la empresa iRobot, capaces de aspirar una casa. Su salida marca un hito en la automatización doméstica y genera el referente que la gente espera de la IA.
+              p.mb-0 Roomba: sale al mercado Roomba, línea de robots aspiradores, de la empresa iRobot, capaces de aspirar una casa. Su salida marca un hito en la automatización doméstica y genera el referente que la gente espera de la IA.
           
             .col-md-5
               figure
@@ -135,7 +135,7 @@
           .row(titulo="2009").justify-content-center.align-items-center
             .col-md-6.mb-4.mb-md-0
               h5 2009
-              p.mb-0 ImageNet democratiza los datos: Una base de datos con más de 14 millones de imágenes etiquetadas, diseñada para el entrenamiento de IA.
+              p.mb-0 ImageNet democratiza los datos: una base de datos con más de 14 millones de imágenes etiquetadas, diseñada para el entrenamiento de IA.
           
             .col-md-5
               figure
@@ -150,7 +150,7 @@
           .row(titulo="2014").justify-content-center.align-items-center
             .col-md-6.mb-4.mb-md-0
               h5 2014
-              p.mb-0 Eugene pasa el Test de Turing: Eugene Goostman, programa de IA simulando ser un adolescente ucraniano, convenció a un tercio de los jueces de ser un humano, convirtiéndose en el primer sistema en superar públicamente el Test de Turing.
+              p.mb-0 Eugene pasa el test de Turing: Eugene Goostman, programa de IA simulando ser un adolescente ucraniano, convenció a un tercio de los jueces de ser un humano, convirtiéndose en el primer sistema en superar públicamente el Test de Turing.
             .col-md-5
               figure
                 img(src='@/assets/curso/temas/tema1/19.png', alt='Texto que describa la imagen')
@@ -165,7 +165,7 @@
           .row(titulo="2014").justify-content-center.align-items-center
             .col-md-6.mb-4.mb-md-0
               h5 2014
-              p.mb-0 Alexa: Presenta Alexa, asistente virtual controlado por voz, que responde a comandos, interactúa verbalmente y ejecuta órdenes en dispositivos inteligentes.
+              p.mb-0 Alexa: asistente virtual controlado por voz, que responde a comandos, interactúa verbalmente y ejecuta órdenes en dispositivos inteligentes.
           
             .col-md-5
               figure
@@ -203,7 +203,7 @@
                 img(src='@/assets/curso/temas/tema1/24.png', alt='Texto que describa la imagen')
           .row(numero="2019" titulo=" GPT-2 y GPT-3").align-items-center
             .col-md-9.mb-4.mb-md-0.order-2
-              p.mb-0 Avances en generación de texto: La empresa OpenAI lanza los modelos GPT-2 y GPT-3, sistemas de inteligencia artificial con la capacidad de generar texto fluido, coherente y de alta calidad como respuesta a pocas instrucciones.
+              p.mb-0 Avances en generación de texto: la empresa OpenAI lanza los modelos GPT-2 y GPT-3, sistemas de inteligencia artificial con la capacidad de generar texto fluido, coherente y de alta calidad como respuesta a pocas instrucciones.
             .col-md-3.order-1
               figure
                 img(src='@/assets/curso/temas/tema1/25.png', alt='Texto que describa la imagen')
@@ -276,7 +276,7 @@
               .bg-color-white.p-4.h-100.shadow-app.tarjeta
                 img(src='@/assets/curso/temas/tema1/33.png' alt='AvatarTop' , style="max-width: 90px").mx-auto.mb-3
                 h4.text-center.mb-4 Traducción automática
-                p.text-center Herramientas que usan la IA para traducir textos y conversaciones, páginas web y conversaciones en tiempo real (Google Translate).
+                p.text-center Herramientas que usan la IA para traducir textos y conversaciones, páginas <em>web</em> y conversaciones en tiempo real (Google Translate).
               .bg-color-white.p-4.h-100.shadow-app.tarjeta
                 img(src='@/assets/curso/temas/tema1/34.png' alt='AvatarTop' , style="max-width: 90px").mx-auto.mb-3
                 h4.text-center.mb-4 Fotografía inteligente
@@ -368,7 +368,7 @@
             .col-lg-7
               h5 Generación de código
               p Herramientas que generan código automáticamente. 
-              p.mb-0 <b>Ejemplo:</b> Síntesis de código, donde se crea una función completa a partir de una solicitud en lenguaje natural del usuario.
+              p.mb-0 <b>Ejemplo:</b> síntesis de código, donde se crea una función completa a partir de una solicitud en lenguaje natural del usuario.
     
           .row.align-items-center.p-4.p-md-5
             .col-lg-5.mb-3.mb-lg-0
@@ -377,7 +377,7 @@
             .col-lg-7
               h5 Detección y corrección de errores
               p Identificación anticipada de errores y corrección en tiempo real.
-              p.mb-0 <b>Ejemplo:</b> Predicción de errores, mediante el análisis de patrones para anticipar fallos futuros y sugerir ajustes mientras se escribe el código. 
+              p.mb-0 <b>Ejemplo:</b> predicción de errores, mediante el análisis de patrones para anticipar fallos futuros y sugerir ajustes mientras se escribe el código. 
           .row.align-items-center.p-4.p-md-5
             .col-lg-5.mb-3.mb-lg-0
               figure
@@ -385,7 +385,7 @@
             .col-lg-7
               h5 Automatización de pruebas
               p Creación automática de casos de prueba y priorización de pruebas críticas.
-              p.mb-0 <b>Ejemplo:</b> Optimización de pruebas, donde se generan pruebas automatizadas y se priorizan las más relevantes, reduciendo tiempos y recursos. 
+              p.mb-0 <b>Ejemplo:</b> optimización de pruebas, donde se generan pruebas automatizadas y se priorizan las más relevantes, reduciendo tiempos y recursos. 
           .row.align-items-center.p-4.p-md-5
             .col-lg-5.mb-3.mb-lg-0
               figure
@@ -393,7 +393,7 @@
             .col-lg-7
               h5 Gestión de proyectos
               p Automatización de tareas administrativas y estimación de tiempos basada en datos históricos. 
-              p.mb-0 <b>Ejemplo:</b> Estimación de tiempo, en la que se analiza el historial de proyectos anteriores para crear cronogramas precisos y asignar mejor los recursos.
+              p.mb-0 <b>Ejemplo:</b> estimación de tiempo, en la que se analiza el historial de proyectos anteriores para crear cronogramas precisos y asignar mejor los recursos.
           .row.align-items-center.p-4.p-md-5
             .col-lg-5.mb-3.mb-lg-0
               figure
@@ -401,7 +401,7 @@
             .col-lg-7
               h5 Documentación
               p Generación automática de documentación técnica del código y traducción de documentos. 
-              p.mb-0 <b>Ejemplo:</b> Traducción, en la que los documentos técnicos se traducen a varios idiomas para facilitar el acceso global a proyectos de código abierto.
+              p.mb-0 <b>Ejemplo:</b> traducción, en la que los documentos técnicos se traducen a varios idiomas para facilitar el acceso global a proyectos de código abierto.
           .row.align-items-center.p-4.p-md-5
             .col-lg-5.mb-3.mb-lg-0
               figure
@@ -409,7 +409,7 @@
             .col-lg-7
               h5 Refactorización y optimización
               p Mejora de la estructura del código para aumentar su legibilidad y eficiencia. 
-              p.mb-0 <b>Ejemplo:</b> Revisión de código, que detecta malas prácticas y sugiere mejores soluciones según estándares de calidad.
+              p.mb-0 <b>Ejemplo:</b> revisión de código, que detecta malas prácticas y sugiere mejores soluciones según estándares de calidad.
           .row.align-items-center.p-4.p-md-5
             .col-lg-5.mb-3.mb-lg-0
               figure
@@ -417,7 +417,7 @@
             .col-lg-7
               h5 Mejora de la seguridad
               p Identificación de vulnerabilidades en el código y propuesta de medidas correctivas. 
-              p.mb-0 <b>Ejemplo:</b> Detección de amenazas, como el reconocimiento de una inyección SQL y la recomendación de una solución para mitigar el riesgo.
+              p.mb-0 <b>Ejemplo:</b> detección de amenazas, como el reconocimiento de una inyección SQL y la recomendación de una solución para mitigar el riesgo.
           .row.align-items-center.p-4.p-md-5
             .col-lg-5.mb-3.mb-lg-0
               figure
@@ -425,7 +425,7 @@
             .col-lg-7
               h5 Diseño de UX
               p Generación automática de interfaces y ejecución de pruebas A/B para evaluar su eficacia.  
-              p.mb-0 <b>Ejemplo:</b> Generación de IU, donde la IA crea una interfaz de usuario personalizada a partir de los patrones de comportamiento recopilados.
+              p.mb-0 <b>Ejemplo:</b> generación de IU, donde la IA crea una interfaz de usuario personalizada a partir de los patrones de comportamiento recopilados.
           .row.align-items-center.p-4.p-md-5
             .col-lg-5.mb-3.mb-lg-0
               figure
@@ -433,7 +433,7 @@
             .col-lg-7
               h5 Diseño arquitectónico
               p Creación de arquitecturas de <em>software</em> eficientes y escalables, alineadas con buenas prácticas. 
-              p.mb-0 <b>Ejemplo:</b> Arquitectura de la solución, donde se automatiza el diseño técnico del sistema e infraestructura necesaria para un despliegue eficiente.  
+              p.mb-0 <b>Ejemplo:</b> arquitectura de la solución, donde se automatiza el diseño técnico del sistema e infraestructura necesaria para un despliegue eficiente.  
     
     .bg-full-width.bg-color-5
       .px-4.px-md-5.py-4
@@ -441,7 +441,7 @@
           .col-lg-auto
             img(src="@/assets/curso/temas/tema1/51.png", style="max-width: 90px").mx-auto
           .col-lg
-            p.mb-0.text-white Actualmente la IA ha transformado considerablemente el desarrollo de <em>software</em>, automatizando tareas repetitivas, mejorando la productividad, optimizando la toma de decisiones, facilitando las pruebas y las depuraciones, permitiendo la personalización de las experiencias de usuarios y prediciendo las tendencias del mercado. Con el desarrollo de estas capacidades de la IA, se ha impulsado la eficiencia, la calidad y se sigue innovando en la programación moderna (Sancho, 2023).
+            p.mb-0.text-white Actualmente, la IA ha transformado considerablemente el desarrollo de <em>software</em>, automatizando tareas repetitivas, mejorando la productividad, optimizando la toma de decisiones, facilitando las pruebas y las depuraciones, permitiendo la personalización de las experiencias de usuarios y prediciendo las tendencias del mercado. Con el desarrollo de estas capacidades de la IA, se ha impulsado la eficiencia, la calidad y se sigue innovando en la programación moderna (Sancho, 2023).
     
         
 

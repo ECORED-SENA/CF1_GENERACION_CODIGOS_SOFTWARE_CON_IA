@@ -75,7 +75,7 @@ export default {
           },
           {
             numero: '2.2',
-            titulo: 'Lista de Herramientas de IA Generativa',
+            titulo: 'Lista de herramientas de IA generativa',
             hash: 't_2_2',
           },
         ],

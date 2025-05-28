@@ -53,7 +53,7 @@
               .bg-color-white.p-4.h-100.shadow-app.tarjeta
                 img(src='@/assets/curso/temas/tema2/8.png' alt='AvatarTop' , style="max-width: 90px").mx-auto.mb-3
                 h4.text-center.mb-4 Innovación en el arte y el entretenimiento
-                p.text-center Transforma la creación y el consumo de contenidos mediante la generación de música, videos y arte digital, brindando nuevas herramientas a creadores y artistas..
+                p.text-center Transforma la creación y el consumo de contenidos mediante la generación de música, videos y arte digital, brindando nuevas herramientas a creadores y artistas.
               .bg-color-white.p-4.h-100.shadow-app.tarjeta
                 img(src='@/assets/curso/temas/tema2/9.png' alt='AvatarTop' , style="max-width: 90px").mx-auto.mb-3
                 h4.text-center.mb-4 Desarrollo de productos y prototipos
@@ -100,7 +100,7 @@
           tr
             td Gemini
             td Texto y código
-            td Generador de texto y respuestas basado en web.
+            td Generador de texto y respuestas basado en <em>web</em>
               br
               | Genera y explica código en varios lenguajes.
             td Gratuito
