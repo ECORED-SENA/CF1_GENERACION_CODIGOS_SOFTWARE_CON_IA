@@ -293,14 +293,14 @@
     separador
 
     #t_3_3.titulo-segundo.color-acento-contenido(data-aos="flip-up")
-      h2 3.3 Ejemplos de <em>Prompt</em>s efectivos y no efectivos
+      h2 3.3 Ejemplos de <em>Prompts</em> efectivos y no efectivos
     
     .row.mb-5
       .col-lg-4.order-lg-2.mb-3.mb-lg-0
         figure
           img(src="@/assets/curso/temas/tema3/27.png", data-aos="zoom-in")
       .col-lg-8.order-lg-1
-        p(data-aos="fade-left") Dado que los <em>Prompt</em>s son instrucciones clave para interactuar con una IA gen, es fundamental comprender que la calidad de su redacción influye directamente en los resultados obtenidos. Un <em>Prompt</em> efectivo debe ser claro, específico y detallado, de modo que el modelo entienda correctamente la tarea y pueda generar una respuesta precisa y relevante.
+        p(data-aos="fade-left") Dado que los <em>Prompts</em> son instrucciones clave para interactuar con una IA gen, es fundamental comprender que la calidad de su redacción influye directamente en los resultados obtenidos. Un <em>Prompt</em> efectivo debe ser claro, específico y detallado, de modo que el modelo entienda correctamente la tarea y pueda generar una respuesta precisa y relevante.
         .bg-color-2.p-4.mb-5(data-aos="fade-left")
           .row.align-items-start
             .col-lg-auto

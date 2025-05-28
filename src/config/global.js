@@ -88,7 +88,7 @@ export default {
         subMenu: [
           {
             numero: '3.1',
-            titulo: 'Principios de <em>Prompt</em>ing',
+            titulo: 'Principios de <em>Prompting</em>',
             hash: 't_3_1',
           },
           {
@@ -99,7 +99,7 @@ export default {
           },
           {
             numero: '3.3',
-            titulo: 'Ejemplos de <em>Prompt</em>s efectivos y no efectivos  ',
+            titulo: 'Ejemplos de <em>Prompts</em> efectivos y no efectivos  ',
             hash: 't_3_3',
           },
           {
@@ -272,13 +272,13 @@ export default {
       referencia:
         'Panamerican Business School. (2024). Qué es un <em>Prompt</em> en IA. ',
       link:
-        'https://panamericanlatam.com/que-es-un-<em>Prompt</em>-en-ia-y-para-que-sirve/',
+        'https://panamericanlatam.com/que-es-un-prompt-en-ia-y-para-que-sirve/',
     },
     {
       referencia:
         'Sancho, P. (2023). La IA está revolucionando el desarrollo de <em>software</em>. Dreams. ',
       link:
-        'https://www.dreams.es/transformacion-digital/modelos-de-comportamiento/la-ia-esta-revolucionando-el-desarrollo-de-<em>software</em>',
+        'https://www.dreams.es//transformacion-digital/modelos-de-comportamiento/la-ia-esta-revolucionando-el-desarrollo-de-software',
     },
     {
       referencia:
