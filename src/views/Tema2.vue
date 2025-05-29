@@ -67,7 +67,7 @@
     separador
 
     #t_2_2.titulo-segundo.color-acento-contenido(data-aos="flip-up")
-      h2 2.2 Lista de Herramientas de IA Generativa
+      h2 2.2 Lista de erramientas de IA generativa
 
     p.mb-5 Las herramientas de IA gen, con la generación de contenido de forma automática, desde texto e imágenes hasta el audio y vídeo, están revolucionando diversas industrias. El campo tecnológico, a través de diferentes herramientas de IA gen, se ha hecho presente para seguir aportando a la sociedad, por ello se destacan sus aplicaciones y funcionalidades para que el hombre aproveche el potencial de la IA en tareas creativas y productivas. Entre las principales IA gen que se están destacando se tienen: 
 

@@ -33,83 +33,74 @@
 
         LineaTiempoE.color-acento-contenido.mb-5
           .row(titulo="1842").align-items-center
-            .col-lg-8.mb-4.mb-lg-0.order-2
+            .col-auto
+              img(src='@/assets/curso/temas/tema1/3.png', alt='', style="max-width: 95px")
+            .col
               p.mb-0 <b>De los números a la poesía:</b> Ada Lovelace vio el potencial de las computadoras más allá de las matemáticas.
-            .col-lg-2.order-1
-              figure
-                img(src='@/assets/curso/temas/tema1/3.png', alt='Texto que describa la imagen')
+
           .row(titulo="1921").align-items-center
-            .col-lg-8.mb-4.mb-lg-0.order-2
+            .col-auto
+              img(src='@/assets/curso/temas/tema1/4.png', alt='', style="max-width: 95px")
+            .col
               p.mb-0 <b>Se introduce la palabra '<em>robot</em>':</b> Karel Čapek visiona la definición de robots artificiales, dando origen al término <em>robot</em>.
-            .col-lg-2.order-1
-              figure
-                img(src='@/assets/curso/temas/tema1/4.png', alt='Texto que describa la imagen')
           .row(titulo="1943").align-items-center
-            .col-lg-8.mb-4.mb-lg-0.order-2
+            .col-auto
+              img(src='@/assets/curso/temas/tema1/5.png', alt='', style="max-width: 95px")
+            .col
               p.mb-0 <b>Las neuronas se vuelven artificiales:</b> McCulloch y Pitts desarrollaron el primer modelo matemático de neuronas artificiales, sentando las bases de las redes neuronales artificiales.
-            .col-lg-2.order-1
-              figure
-                img(src='@/assets/curso/temas/tema1/5.png', alt='Texto que describa la imagen')
           .row(titulo="1950").align-items-center
-            .col-lg-8.mb-4.mb-lg-0.order-2
+            .col-auto
+              img(src='@/assets/curso/temas/tema1/6.png', alt='', style="max-width: 95px")
+            .col
               p.mb-0 <b>Turing Test:</b> Alan Turing plantea una prueba para identificar comportamiento inteligente en las máquinas.
-            .col-lg-2.order-1
-              figure
-                img(src='@/assets/curso/temas/tema1/6.png', alt='Texto que describa la imagen')
           .row(titulo="1956").align-items-center
-            .col-lg-8.mb-4.mb-lg-0.order-2
+            .col-auto
+              img(src='@/assets/curso/temas/tema1/7.png', alt='', style="max-width: 95px")
+            .col
               p.mb-0 <b>Nace el término inteligencia artificial:</b> John McCarthy en una conferencia de Dartmouth, usa por primera vez el término inteligencia artificial, marcando el inicio de esta disciplina.
-            .col-lg-2.order-1
-              figure
-                img(src='@/assets/curso/temas/tema1/7.png', alt='Texto que describa la imagen')
           .row(titulo="1956").align-items-center
-            .col-lg-8.mb-4.mb-lg-0.order-2
+            .col-auto
+              img(src='@/assets/curso/temas/tema1/8.png', alt='', style="max-width: 95px")
+            .col
               p.mb-0 <b>El primer programa de IA:</b> Newell, Simón y Shaw crean <em>Logic Theorist</em>, considerado el primer programa de IA.
-            .col-lg-2.order-1
-              figure
-                img(src='@/assets/curso/temas/tema1/8.png', alt='Texto que describa la imagen')
           .row(titulo="1961").align-items-center
-            .col-lg-8.mb-4.mb-lg-0.order-2
+            .col-auto
+                img(src='@/assets/curso/temas/tema1/9.png', alt='', style="max-width: 95px")
+            .col
               p.mb-0 <b><em>Unimate</em>:</b> George Devol diseña <em>Unimate</em>, considerado el primer robot industrial, para General Motors.
-            .col-lg-2.order-1
-              figure
-                img(src='@/assets/curso/temas/tema1/9.png', alt='Texto que describa la imagen')
           .row(titulo="1964").align-items-center
-            .col-lg-8.mb-4.mb-lg-0.order-2
+            .col-auto
+              img(src='@/assets/curso/temas/tema1/10.png', alt='', style="max-width: 95px")
+            .col
               p.mb-0 <b>Eliza:</b> Joseph Weizenbaum crea ELIZA, el primer <em>chatbot</em> (programa informático que simula una conversación humana mediante texto).
-            .col-lg-2.order-1
-              figure
-                img(src='@/assets/curso/temas/tema1/10.png', alt='Texto que describa la imagen')
           .row(titulo="1966").align-items-center
-            .col-lg-8.mb-4.mb-lg-0.order-2
+            .col-auto
+              img(src='@/assets/curso/temas/tema1/11.png', alt='', style="max-width: 95px")
+            .col
               p.mb-0 <b><em>Shakey</em>:</b> <em>Shakey</em> es el primer robot móvil de propósito general, capaz de analizar su entorno para razonar y planificar sus acciones según el entorno y así tomar decisiones en cuanto a sus movimientos. Marcó el camino hacia la robótica inteligente y los coches autónomos.
-            .col-lg-2.order-1
-              figure
-                img(src='@/assets/curso/temas/tema1/11.png', alt='Texto que describa la imagen')
           .row(titulo="1974 - 1980").align-items-center
-            .col-lg-8.mb-4.mb-lg-0.order-2
+            .col-auto
+              img(src='@/assets/curso/temas/tema1/12.png', alt='', style="max-width: 95px")
+            .col
               p.mb-0 <b>Invierno IA:</b> Se invierte menos en investigación en el área, debido a que baja el interés en la IA por las limitaciones técnicas de la época.
-            .col-lg-2.order-1
-              figure
-                img(src='@/assets/curso/temas/tema1/12.png', alt='Texto que describa la imagen')
+              
           .row(titulo="1986").align-items-center
-            .col-lg-8.mb-4.mb-lg-0.order-2
+            .col-auto
+              img(src='@/assets/curso/temas/tema1/13.png', alt='', style="max-width: 95px")
+            .col
               p.mb-0 <b>RNNs:</b> Michael Jordán presenta una arquitectura para el aprendizaje secuencial, llamada redes neuronales recurrentes, diseñada para el procesamiento de información en secuencia y el aprendizaje de datos ordenados en el tiempo.
-            .col-lg-2.order-1
-              figure
-                img(src='@/assets/curso/temas/tema1/13.png', alt='Texto que describa la imagen')
+              
           .row(titulo="1987 - 1993").align-items-center
-            .col-lg-8.mb-4.mb-lg-0.order-2
+            .col-auto
+              img(src='@/assets/curso/temas/tema1/14.png', alt='', style="max-width: 95px")
+            .col
               p.mb-0 <b>Segundo Invierno IA:</b> Se da el segundo invierno en la IA por la combinación de expectativas no cumplidas, las limitaciones tecnológicas del momento y los fracasos comerciales que se habían tenido.
-            .col-lg-2.order-1
-              figure
-                img(src='@/assets/curso/temas/tema1/14.png', alt='Texto que describa la imagen')
           .row(titulo="1997").align-items-center
-            .col-lg-8.mb-4.mb-lg-0.order-2
+            .col-auto
+              img(src='@/assets/curso/temas/tema1/15.png', alt='', style="max-width: 95px")
+            .col  
               p.mb-0 <b><em>Deep Blue</em>:</b> <em>Deep Blue</em>, una supercomputadora creada por IBM, vence al campeón mundial de ajedrez Garry Kasparov, lo que marca un hito y hace renacer el interés por la IA.
-            .col-lg-2.order-1
-              figure
-                img(src='@/assets/curso/temas/tema1/15.png', alt='Texto que describa la imagen')
+              
         
     .titulo-con-imagen.mb-5(data-aos="fade-right")
       .titulo-con-imagen__fondo
@@ -131,7 +122,7 @@
           
             .col-md-5
               figure
-                img(src='@/assets/curso/temas/tema1/16.png', alt='Texto que describa la imagen')
+                img(src='@/assets/curso/temas/tema1/16.png', alt='')
           .row(titulo="2009").justify-content-center.align-items-center
             .col-md-6.mb-4.mb-md-0
               h5 2009
@@ -139,21 +130,21 @@
           
             .col-md-5
               figure
-                img(src='@/assets/curso/temas/tema1/17.png', alt='Texto que describa la imagen')
+                img(src='@/assets/curso/temas/tema1/17.png', alt='')
           .row(titulo="2011").justify-content-center.align-items-center
             .col-md-6.mb-4.mb-md-0
               h5 2011
               p.mb-0 Watson de IBM: Watson, sistema de IA de la empresa IBM, que dando respuestas a preguntas formuladas en lenguaje natural, ganó el concurso de televisión Jeopardy.
             .col-md-5
               figure
-                img(src='@/assets/curso/temas/tema1/18.png', alt='Texto que describa la imagen')
+                img(src='@/assets/curso/temas/tema1/18.png', alt='')
           .row(titulo="2014").justify-content-center.align-items-center
             .col-md-6.mb-4.mb-md-0
               h5 2014
               p.mb-0 Eugene pasa el test de Turing: Eugene Goostman, programa de IA simulando ser un adolescente ucraniano, convenció a un tercio de los jueces de ser un humano, convirtiéndose en el primer sistema en superar públicamente el Test de Turing.
             .col-md-5
               figure
-                img(src='@/assets/curso/temas/tema1/19.png', alt='Texto que describa la imagen')
+                img(src='@/assets/curso/temas/tema1/19.png', alt='')
           .row(titulo="2014").justify-content-center.align-items-center
             .col-md-6.mb-4.mb-md-0
               h5 2014
@@ -161,7 +152,7 @@
           
             .col-md-5
               figure
-                img(src='@/assets/curso/temas/tema1/20.png', alt='Texto que describa la imagen')
+                img(src='@/assets/curso/temas/tema1/20.png', alt='')
           .row(titulo="2014").justify-content-center.align-items-center
             .col-md-6.mb-4.mb-md-0
               h5 2014
@@ -169,7 +160,7 @@
           
             .col-md-5
               figure
-                img(src='@/assets/curso/temas/tema1/21.png', alt='Texto que describa la imagen')
+                img(src='@/assets/curso/temas/tema1/21.png', alt='')
           .row(titulo="2015 - 2016").justify-content-center.align-items-center
             .col-md-6.mb-4.mb-md-0
               h5 2015 - 2016
@@ -177,7 +168,7 @@
           
             .col-md-5
               figure
-                img(src='@/assets/curso/temas/tema1/22.png', alt='Texto que describa la imagen')
+                img(src='@/assets/curso/temas/tema1/22.png', alt='')
 
     .titulo-con-imagen.mb-5(data-aos="fade-right")
       .titulo-con-imagen__fondo
@@ -194,37 +185,37 @@
               p.mb-0 Creado por Google DeepMind, derrota al campeón mundial del juego Go, utilizando habilidades complejas que se creían exclusivas de los humanos.
             .col-md-3.order-1
               figure
-                img(src='@/assets/curso/temas/tema1/23.png', alt='Texto que describa la imagen')
+                img(src='@/assets/curso/temas/tema1/23.png', alt='')
           .row(numero="2018" titulo="BERT, un modelo de lenguaje").align-items-center
             .col-md-9.mb-4.mb-md-0.order-2
               p.mb-0 BERT, un modelo de procesamiento de lenguaje natural desarrollado por Google, logra comprender el contexto de las palabras en una oración o en una pregunta e interactuar respondiendo.
             .col-md-3.order-1
               figure
-                img(src='@/assets/curso/temas/tema1/24.png', alt='Texto que describa la imagen')
+                img(src='@/assets/curso/temas/tema1/24.png', alt='')
           .row(numero="2019" titulo=" GPT-2 y GPT-3").align-items-center
             .col-md-9.mb-4.mb-md-0.order-2
               p.mb-0 Avances en generación de texto: la empresa OpenAI lanza los modelos GPT-2 y GPT-3, sistemas de inteligencia artificial con la capacidad de generar texto fluido, coherente y de alta calidad como respuesta a pocas instrucciones.
             .col-md-3.order-1
               figure
-                img(src='@/assets/curso/temas/tema1/25.png', alt='Texto que describa la imagen')
+                img(src='@/assets/curso/temas/tema1/25.png', alt='')
           .row(numero="2020" titulo="IA en la pandemia de COVID-19").align-items-center
             .col-md-9.mb-4.mb-md-0.order-2
               p.mb-0 La IA es utilizada para trabajar y responder con mayor rapidez al rastreo de contagios, análisis de datos médicos y el aceleramiento en el desarrollo de vacunas para combatir la COVID-19.
             .col-md-3.order-1
               figure
-                img(src='@/assets/curso/temas/tema1/26.png', alt='Texto que describa la imagen')
+                img(src='@/assets/curso/temas/tema1/26.png', alt='')
           .row(numero="2022" titulo="Lanzamiento de ChatGPT").align-items-center
             .col-md-9.mb-4.mb-md-0.order-2
               p.mb-0 OpenAI lanza ChatGPT, primer modelo de IA generativa abierto al público para mantener conversaciones de forma natural, apoyar en tareas y asistir en diferentes actividades, lo que catapultó su uso a nivel mundial, marcando un antes y un después en la IA y una explosión masiva de diferentes herramientas que hoy se han tomado los diferentes escenarios en los cuales se desenvuelve el hombre.
             .col-md-3.order-1
               figure
-                img(src='@/assets/curso/temas/tema1/27.png', alt='Texto que describa la imagen')
+                img(src='@/assets/curso/temas/tema1/27.png', alt='')
           .row(numero="2023" titulo="IA multimodal y modelos fundacionales").align-items-center
             .col-md-9.mb-4.mb-md-0.order-2
               p.mb-0 Emergen modelos multimodales avanzados como GPT-4 y otras propuestas de las empresas más grandes del mundo como Google, Meta, Anthropic y Microsoft, capaces de generar información combinando texto, imágenes, audio y/o video, ampliando significativamente las capacidades de la IA en escenarios diversos y complejos.
             .col-md-3.order-1
               figure
-                img(src='@/assets/curso/temas/tema1/28.png', alt='Texto que describa la imagen')
+                img(src='@/assets/curso/temas/tema1/28.png', alt='')
 
 
     separador
@@ -309,7 +300,7 @@
             .row.justify-content-center.mb-3
               .col-7
                 figure
-                  img(src='@/assets/curso/temas/tema1/37.png', alt='Texto que describa la imagen')
+                  img(src='@/assets/curso/temas/tema1/37.png', alt='')
 
             h3.text-center Salud
             p.mb-0 Análisis de historial clínico, diagnóstico por medio de reconocimiento de imágenes, asistente clínico virtual.
@@ -319,7 +310,7 @@
             .row.justify-content-center.mb-3
               .col-7
                 figure
-                  img(src='@/assets/curso/temas/tema1/38.png', alt='Texto que describa la imagen')
+                  img(src='@/assets/curso/temas/tema1/38.png', alt='')
 
             h3.text-center Finanzas
             p.mb-0 <em>Chatbots</em> bancarios, detección de fraude financiero, predicción de riesgos crediticios. 
@@ -329,7 +320,7 @@
             .row.justify-content-center.mb-3
               .col-7
                 figure
-                  img(src='@/assets/curso/temas/tema1/39.png', alt='Texto que describa la imagen')
+                  img(src='@/assets/curso/temas/tema1/39.png', alt='')
 
             h3.text-center Logística y transporte
             p.mb-0 Optimización de rutas de entrega, vehículos autónomos, gestión de inventario automático.
@@ -339,7 +330,7 @@
             .row.justify-content-center.mb-3
               .col-7
                 figure
-                  img(src='@/assets/curso/temas/tema1/40.png', alt='Texto que describa la imagen')
+                  img(src='@/assets/curso/temas/tema1/40.png', alt='')
 
             h3.text-center Agricultura
             p.mb-0 Detección de enfermedades por reconocimiento de imágenes, predicción de cosechas, monitoreo de cultivos por drones.

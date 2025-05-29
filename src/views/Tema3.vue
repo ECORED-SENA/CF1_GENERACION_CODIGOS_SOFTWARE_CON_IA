@@ -19,7 +19,7 @@
             .col-lg
               p.mb-0 Cuando se hace referencia a un <em>prompt</em> en inteligencia artificial, se habla de la instrucción que se le proporciona a la IA gen para que, con base en ella, genere una respuesta precisa según la tarea solicitada. Esta respuesta puede estar en formato de texto, traducción, imagen, video, audio u otro tipo de contenido que la herramienta esté diseñada para producir. La calidad del <em>prompt</em> influye directamente en la precisión de la respuesta: un <em>prompt</em> bien formulado permite obtener resultados útiles, mientras que uno confuso o incompleto puede generar errores o respuestas poco relevantes.
 
-        p(data-aos="fade-left") Herramientas como <em>Prompt</em> <em>Storm</em> y <em>Prompt</em>Base son de gran utilidad para mejorar la redacción de <em>prompt</em>s y optimizar la interacción con la IA gen (PBS, 2024). Parte del éxito en el aprovechamiento de las capacidades de una IA gen radica en la redacción de un buen <em>prompt</em>. Una instrucción clara y bien estructurada permite delegar efectivamente la tarea a la herramienta, mientras que una formulación deficiente traslada la carga de responsabilidad al usuario.  Un <em>prompt</em> puede estar compuesto por uno o varios elementos, entre los cuales se encuentran:
+        p(data-aos="fade-left") Herramientas como <em>Prompt</em> <em>Storm</em> y <em>Prompt</em>Base son de gran utilidad para mejorar la redacción de <em>prompts</em> y optimizar la interacción con la IA gen (PBS, 2024). Parte del éxito en el aprovechamiento de las capacidades de una IA gen radica en la redacción de un buen <em>prompt</em>. Una instrucción clara y bien estructurada permite delegar efectivamente la tarea a la herramienta, mientras que una formulación deficiente traslada la carga de responsabilidad al usuario.  Un <em>prompt</em> puede estar compuesto por uno o varios elementos, entre los cuales se encuentran:
     
     TabsB.color-acento-contenido.mb-5
       .py-4.py-md-5(titulo="Contexto" :icono="require('@/assets/bullets/1.svg')")
@@ -91,7 +91,7 @@
             p Utiliza directrices afirmativas como “haz esto” mientras evitas lenguaje negativo como “no lo hagas”. 
             p.mb-0 <b>Ejemplo:</b> dime la lista de los municipios que conforman al departamento de La Guajira.
           div(titulo="Solicitar claridad")
-            pdo Cuando se desee comprender un tema de la mejor manera, formula la pregunta de forma simple y pídele a la IA que también te responda en una forma simple y sencilla, sin complicar la explicación. 
+            p Cuando se desee comprender un tema de la mejor manera, formula la pregunta de forma simple y pídele a la IA que también te responda en una forma simple y sencilla, sin complicar la explicación. 
             p.mb-0 <b>Ejemplo:</b> explícale cómo funciona un teléfono móvil a un niño de 5 años.
     
     .row.mb-5.align-items-center.mb-5
