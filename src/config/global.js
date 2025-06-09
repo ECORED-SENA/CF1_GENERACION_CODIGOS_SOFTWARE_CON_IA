@@ -157,14 +157,14 @@ export default {
   },
   complementario: [
     {
-      tema: 'POLÍTICA NACIONAL DE INTELIGENCIA ARTIFICIAL',
+      tema: 'Política Nacional de Inteligencia Artificial',
       referencia:
         'Departamento Nacional de Planeación. (2025). POLÍTICA NACIONAL DE INTELIGENCIA ARTIFICIAL. ',
       tipo: 'Documento',
       descarga: 'downloads/4144.pdf',
     },
     {
-      tema: 'MARCO ÉTICO PARA LA INTELIGENCIA ARTIFICIAL EN COLOMBIA',
+      tema: 'Marco Ético para la Inteligencia Artificial en Colombia',
       referencia:
         'Guío, A. (2020). MARCO ÉTICO PARA LA INTELIGENCIA ARTIFICIAL EN COLOMBIA. ',
       tipo: 'Documento',

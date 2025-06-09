@@ -19,7 +19,7 @@
             .col-lg-auto
               img(src="@/assets/curso/temas/tema1/2.png", style="max-width: 90px").mx-auto
             .col-lg
-              p.mb-0 Un ejemplo claro de su funcionamiento es cuando se le habla al teléfono y este responde con la acción solicitada, demostrando que ha interpretado correctamente el mensaje. Otro caso cotidiano es el sistema de recomendaciones de YouTube, que sugiere videos relacionados con los que ya se han riormente.
+              p.mb-0 Un ejemplo claro de su funcionamiento es cuando se le habla al teléfono y este responde con la acción solicitada, demostrando que ha interpretado correctamente el mensaje. Otro caso cotidiano es el sistema de recomendaciones de YouTube, que sugiere videos relacionados con los que ya se han reproducido anteriormente.
         p(data-aos="fade-left") Está demostrado que el objetivo de la inteligencia artificial no se limita a la automatización de tareas. Por el contrario, busca un mejoramiento continuo, perfeccionándose mediante el aprendizaje obtenido a través del análisis de datos. Esto la convierte en una herramienta fundamental para abordar problemas cada vez más complejos. A diferencia de los humanos, estas máquinas no se fatigan y pueden trabajar de manera constante mientras reciban energía, lo que las hace especialmente valiosas en áreas como la salud, la educación, el trabajo y otros ámbitos donde su aplicación es requerida.
     
     separador

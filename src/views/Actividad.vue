@@ -44,7 +44,8 @@ export default {
             },
             {
               id: 'c',
-              texto: 'Un tipo de IA que solo realiza tareas repetitivas.',
+              texto:
+                'Un modelo de IA capaz de genrar contenido original como texto, imágenes o música.',
               esCorrecta: true,
             },
             {
@@ -339,7 +340,7 @@ export default {
               id: 'c',
               texto:
                 'Su capacidad para generar contenido nuevo a partir de ejemplos previos, como escribir textos o crear imágenes.',
-              esCorrecta: false,
+              esCorrecta: true,
             },
             {
               id: 'd',
