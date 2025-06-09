@@ -242,14 +242,14 @@
             img(src='@/assets/curso/temas/tema1/29.png', alt='')
         .col-lg.order-1.mb-3.mb-lg-0
           .p-4
-            p.mb-0(data-aos="fade-up") Desde su incursión, la inteligencia artificial ha tenido un impacto relevante y significativo en el hombre, tanto en su vida cotidiana, como en la industria. Esto le ha ayudado a mejorar sus procesos y a conseguir soluciones innovadoras, que han ido desde asistentes virtuales, hasta sistemas de recomendación. La IA se ha aplicado en diferentes áreas, tales como la salud, el entretenimiento, el transporte, entre otras, optimizando tareas y generando nuevas oportunidades de trabajo.  
+            p.mb-0(data-aos="fade-up") Desde su incursión, la inteligencia artificial ha tenido un impacto relevante y significativo en el hombre, tanto en su vida cotidiana como en la industria. Esto le ha ayudado a mejorar sus procesos y a conseguir soluciones innovadoras, que han ido desde asistentes virtuales hasta sistemas de recomendación. La IA se ha aplicado en diferentes áreas, tales como la salud, el entretenimiento, el transporte, entre otras, optimizando tareas y generando nuevas oportunidades de trabajo.  
 
     .titulo-con-imagen.mb-5(data-aos="fade-right")
       .titulo-con-imagen__fondo
         img.titulo-con-imagen__imagen(src="@/assets/componentes/1.svg")
         h3.titulo-con-imagen__texto Aplicaciones de la IA en la vida cotidiana
     
-    p.mb-5 A continuación, se presentan ejemplos concretos del uso de la inteligencia artificial en actividades cotidianas, desde el entretenimiento y la comunicación, hasta la automatización del hogar y la seguridad digital.
+    p.mb-5 A continuación, se presentan ejemplos concretos del uso de la inteligencia artificial en actividades cotidianas, desde el entretenimiento y la comunicación hasta la automatización del hogar y la seguridad digital.
 
     .bg-full-width-2.bg-fondo-1.mb-5
       .px-4.px-md-5.pb-md-3

@@ -320,42 +320,42 @@
             ul.lista-ul--color
               li.mb-0.d-flex
                 i.fas.fa-circle-check.bg-color-9
-                p.mb-0 <b><em>Prompt</em> no efectivo:</b> Responde a las preguntas de los clientes. 
+                p.mb-0 <b><em>Prompt</em> no efectivo:</b> responde a las preguntas de los clientes. 
               li.mb-0.d-flex
                 i.fas.fa-circle-check.bg-color-9
-                p.mb-0 <b><em>Prompt</em> efectivo:</b> Responde a las preguntas frecuentes sobre el horario de atención, el estado de los pedidos y las políticas de devoluciones de un ecommerce.
+                p.mb-0 <b><em>Prompt</em> efectivo:</b> responde a las preguntas frecuentes sobre el horario de atención, el estado de los pedidos y las políticas de devoluciones de un ecommerce.
           div(titulo="Generación automática de reportes financieros")
             ul.lista-ul--color
               li.mb-0.d-flex
                 i.fas.fa-circle-check.bg-color-9
-                p.mb-0 <b><em>Prompt</em> no efectivo:</b> Haz un reporte financiero.  
+                p.mb-0 <b><em>Prompt</em> no efectivo:</b> haz un reporte financiero.  
               li.mb-0.d-flex
                 i.fas.fa-circle-check.bg-color-9
-                p.mb-0 <b><em>Prompt</em> efectivo:</b> Genera un reporte financiero trimestral que incluya un análisis de ingresos, gastos, márgenes de ganancia y recomendaciones de optimización basadas en los datos históricos proporcionados.
+                p.mb-0 <b><em>Prompt</em> efectivo:</b> genera un reporte financiero trimestral que incluya un análisis de ingresos, gastos, márgenes de ganancia y recomendaciones de optimización basadas en los datos históricos proporcionados.
           div(titulo="Generación de contenido para marketing digital")
             ul.lista-ul--color
               li.mb-0.d-flex
                 i.fas.fa-circle-check.bg-color-9
-                p.mb-0 <b><em>Prompt</em> no efectivo:</b> Escribe un post para redes sociales.
+                p.mb-0 <b><em>Prompt</em> no efectivo:</b> escribe un post para redes sociales.
               li.mb-0.d-flex
                 i.fas.fa-circle-check.bg-color-9
-                p.mb-0 <b><em>Prompt</em> efectivo:</b> Escribe un post para redes sociales sobre el lanzamiento de un nuevo producto en el sector tecnológico, utilizando un tono informal, con un llamado a la acción para visitar nuestra página web.
+                p.mb-0 <b><em>Prompt</em> efectivo:</b> escribe un post para redes sociales sobre el lanzamiento de un nuevo producto en el sector tecnológico, utilizando un tono informal, con un llamado a la acción para visitar nuestra página web.
           div(titulo="Traducción automática de textos técnicos")
             ul.lista-ul--color
               li.mb-0.d-flex
                 i.fas.fa-circle-check.bg-color-9
-                p.mb-0 <b><em>Prompt</em> no efectivo:</b> Traduce este documento.  
+                p.mb-0 <b><em>Prompt</em> no efectivo:</b> traduce este documento.  
               li.mb-0.d-flex
                 i.fas.fa-circle-check.bg-color-9
-                p.mb-0 <b><em>Prompt</em> efectivo:</b> Traduce este manual técnico de instalación de <em>software</em> del inglés al español, manteniendo la precisión técnica y terminología especializada.
+                p.mb-0 <b><em>Prompt</em> efectivo:</b> traduce este manual técnico de instalación de <em>software</em> del inglés al español, manteniendo la precisión técnica y terminología especializada.
           div(titulo="Generación de diseño de productos")
             ul.lista-ul--color
               li.mb-0.d-flex
                 i.fas.fa-circle-check.bg-color-9
-                p.mb-0 <b><em>Prompt</em> no efectivo:</b> Diseña un producto. 
+                p.mb-0 <b><em>Prompt</em> no efectivo:</b> diseña un producto. 
               li.mb-0.d-flex
                 i.fas.fa-circle-check.bg-color-9
-                p.mb-0 <b><em>Prompt</em> efectivo:</b> Diseña un prototipo de una lámpara inteligente que pueda ajustarse a la temperatura ambiente, controlada por voz, y que tenga un estilo moderno.
+                p.mb-0 <b><em>Prompt</em> efectivo:</b> diseña un prototipo de una lámpara inteligente que pueda ajustarse a la temperatura ambiente, controlada por voz, y que tenga un estilo moderno.
           
     
     .row.mb-5.align-items-center.mb-5
@@ -368,34 +368,34 @@
             ul.lista-ul--color
               li.mb-0.d-flex
                 i.fas.fa-circle-check.bg-color-9
-                p.mb-0 <b><em>Prompt</em> no efectivo:</b> Escribe un código. 
+                p.mb-0 <b><em>Prompt</em> no efectivo:</b> escribe un código. 
               li.mb-0.d-flex
                 i.fas.fa-circle-check.bg-color-9
-                p.mb-0 <b><em>Prompt</em> efectivo:</b> Escribe un código en Python para una aplicación que calcule el área de un triángulo con base en la fórmula de altura y base proporcionada por el usuario.
+                p.mb-0 <b><em>Prompt</em> efectivo:</b> escribe un código en Python para una aplicación que calcule el área de un triángulo con base en la fórmula de altura y base proporcionada por el usuario.
           div(titulo="Predicción de tendencias del mercado")
             ul.lista-ul--color
               li.mb-0.d-flex
                 i.fas.fa-circle-check.bg-color-9
-                p.mb-0 <b><em>Prompt</em> no efectivo:</b> Predice el futuro del mercado. 
+                p.mb-0 <b><em>Prompt</em> no efectivo:</b> predice el futuro del mercado. 
               li.mb-0.d-flex
                 i.fas.fa-circle-check.bg-color-9
-                p.mb-0 <b><em>Prompt</em> efectivo:</b> Usa análisis de series temporales para predecir las tendencias de ventas de productos electrónicos para el próximo trimestre, basándote en los datos históricos de ventas y factores económicos.
+                p.mb-0 <b><em>Prompt</em> efectivo:</b> usa análisis de series temporales para predecir las tendencias de ventas de productos electrónicos para el próximo trimestre, basándote en los datos históricos de ventas y factores económicos.
           div(titulo="Optimización de procesos de producción")
             ul.lista-ul--color
               li.mb-0.d-flex
                 i.fas.fa-circle-check.bg-color-9
-                p.mb-0 <b><em>Prompt</em> no efectivo:</b> Mejora la producción. 
+                p.mb-0 <b><em>Prompt</em> no efectivo:</b> mejora la producción. 
               li.mb-0.d-flex
                 i.fas.fa-circle-check.bg-color-9
-                p.mb-0 <b><em>Prompt</em> efectivo:</b> Optimiza el proceso de producción en una planta de ensamblaje, identificando los cuellos de botella y sugiriendo mejoras para reducir el tiempo de producción y aumentar la eficiencia en un 20 %.
+                p.mb-0 <b><em>Prompt</em> efectivo:</b> optimiza el proceso de producción en una planta de ensamblaje, identificando los cuellos de botella y sugiriendo mejoras para reducir el tiempo de producción y aumentar la eficiencia en un 20 %.
           div(titulo="Generación de contenido académico")
             ul.lista-ul--color
               li.mb-0.d-flex
                 i.fas.fa-circle-check.bg-color-9
-                p.mb-0 <b><em>Prompt</em> no efectivo:</b> Escribe un artículo sobre la teoría de la relatividad 
+                p.mb-0 <b><em>Prompt</em> no efectivo:</b> escribe un artículo sobre la teoría de la relatividad 
               li.mb-0.d-flex
                 i.fas.fa-circle-check.bg-color-9
-                p.mb-0 <b><em>Prompt</em> efectivo:</b> Escribe un artículo académico de 1.500 palabras sobre la teoría de la relatividad de Einstein, enfocándote en su impacto en la física moderna. Incluye explicaciones sobre la relatividad especial y general, citas clave y referencias bibliográficas en formato APA.
+                p.mb-0 <b><em>Prompt</em> efectivo:</b> escribe un artículo académico de 1.500 palabras sobre la teoría de la relatividad de Einstein, enfocándote en su impacto en la física moderna. Incluye explicaciones sobre la relatividad especial y general, citas clave y referencias bibliográficas en formato APA.
     
     p.mb-5 Otros ejemplos que ilustran cómo transformar indicaciones imprecisas en instrucciones detalladas, aplicadas a áreas como programación, análisis de datos, traducción técnica y generación de contenido visual o académico, para obtener respuestas más precisas y útiles por parte de la inteligencia artificial.
 

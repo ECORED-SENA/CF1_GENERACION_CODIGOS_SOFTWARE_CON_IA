@@ -27,7 +27,7 @@
     #t_2_1.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 2.1	Características
     
-    p.mb-5 La IA gen simboliza la verdadera evolución en el área de la IA, donde se destaca por la capacidad que tiene no solo por el análisis de los datos, sino por la capacidad que tiene de crear contenido totalmente nuevo. Al mirar modelos avanzados como el GPT-4, se logra ver como a través de ellos la tecnología ha demostrado su verdadero potencial para la generación de textos, música, imágenes, incluso simulando el contexto y el estilo humano. Se comparten las principales características que la tienen hoy convertida en herramienta clave para diferentes industrias (Lalangui, 2024):
+    p.mb-5 La IA gen simboliza la verdadera evolución en el área de la IA, donde se destaca por la capacidad que tiene no solo por el análisis de los datos, sino por la capacidad que tiene de crear contenido totalmente nuevo. Al mirar modelos avanzados como el GPT-4, se logra ver cómo a través de ellos la tecnología ha demostrado su verdadero potencial para la generación de textos, música, imágenes, incluso simulando el contexto y el estilo humano. Se comparten las principales características que la tienen hoy convertida en herramienta clave para diferentes industrias (Lalangui, 2024):
 
     .bg-full-width-2.bg-fondo-1.mb-5
       .px-4.px-md-5.pb-md-3
@@ -67,9 +67,9 @@
     separador
 
     #t_2_2.titulo-segundo.color-acento-contenido(data-aos="flip-up")
-      h2 2.2 Lista de erramientas de IA generativa
+      h2 2.2 Lista de herramientas de IA generativa
 
-    p.mb-5 Las herramientas de IA gen, con la generación de contenido de forma automática, desde texto e imágenes hasta el audio y vídeo, están revolucionando diversas industrias. El campo tecnológico, a través de diferentes herramientas de IA gen, se ha hecho presente para seguir aportando a la sociedad, por ello se destacan sus aplicaciones y funcionalidades para que el hombre aproveche el potencial de la IA en tareas creativas y productivas. Entre las principales IA gen que se están destacando se tienen: 
+    p.mb-5 Las herramientas de IA gen, con la generación de contenido de forma automática, desde texto e imágenes hasta el audio y vídeo, están revolucionando diversas industrias. El campo tecnológico, a través de diferentes herramientas de IA gen, se ha hecho presente para seguir aportando a la sociedad; por ello se destacan sus aplicaciones y funcionalidades para que el hombre aproveche el potencial de la IA en tareas creativas y productivas. Entre las principales IA gen que se están destacando se tienen: 
 
     .titulo-sexto.color-acento-contenido
       h5 Tabla 1
