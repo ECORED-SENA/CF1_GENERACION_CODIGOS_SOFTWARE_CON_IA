@@ -163,9 +163,14 @@
             td Gratuito (acceso abierto bajo licencia, uso más técnico)
 
 
+    p.mb-5 Para conocer el manejo de la IA, los pasos básicos de inicio, se invita a revisar el videotutorial titulado Conociendo una inteligencia artificial generativa (ChatGPT) en el cual se realiza la presentación del paso a paso para el uso de una herramienta de IA.
 
+    
+    figure
+      .video
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/nsiiw1GZHMk?si=nNaY4rVJ7CxfiJvd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
-
+    separador
 
 </template>
 
