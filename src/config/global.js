@@ -36,7 +36,7 @@ export default {
       {
         nombreRuta: 'tema1',
         numero: '1',
-        titulo: 'Inteligencia Artificial',
+        titulo: 'Inteligencia artificial',
         desarrolloContenidos: true,
         subMenu: [
           {
@@ -65,7 +65,7 @@ export default {
       {
         nombreRuta: 'tema2',
         numero: '2',
-        titulo: 'Herramientas de inteligencia artificial generativas',
+        titulo: 'Herramientas de inteligencia artificial generativa',
         desarrolloContenidos: true,
         subMenu: [
           {

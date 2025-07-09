@@ -397,7 +397,7 @@ export default {
         {
           id: 13,
           texto:
-            '<em>Prompt</em>Base y <em>Prompt</em> <em>Storm</em> son herramientas para generar imágenes realistas.',
+            '<em>PromptBase</em> y <em>Prompt Storm</em> son herramientas para generar imágenes realistas.',
           imagen: require('@/assets/actividad/imagen4.png'),
           barajarRespuestas: true,
           opciones: [

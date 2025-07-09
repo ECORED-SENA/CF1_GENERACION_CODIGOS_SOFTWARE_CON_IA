@@ -77,12 +77,12 @@
             .col-auto
               img(src='@/assets/curso/temas/tema1/11.png', alt='', style="max-width: 95px")
             .col
-              p.mb-0 <b><em>Shakey</em>:</b> <em>Shakey</em> es el primer robot móvil de propósito general, capaz de analizar su entorno para razonar y planificar sus acciones según el entorno y así tomar decisiones en cuanto a sus movimientos. Marcó el camino hacia la robótica inteligente y los coches autónomos.
+              p.mb-0 <b><em>Shakey</em>:</b> es el primer robot móvil de propósito general, capaz de analizar su entorno para razonar y planificar sus acciones según el entorno y así tomar decisiones en cuanto a sus movimientos. Marcó el camino hacia la robótica inteligente y los coches autónomos.
           .row(titulo="1974 - 1980").align-items-center
             .col-auto
               img(src='@/assets/curso/temas/tema1/12.png', alt='', style="max-width: 95px")
             .col
-              p.mb-0 <b>Invierno IA:</b> Se invierte menos en investigación en el área, debido a que baja el interés en la IA por las limitaciones técnicas de la época.
+              p.mb-0 <b>Invierno IA:</b> se invierte menos en investigación en el área, debido a que baja el interés en la IA por las limitaciones técnicas de la época.
               
           .row(titulo="1986").align-items-center
             .col-auto
@@ -94,12 +94,12 @@
             .col-auto
               img(src='@/assets/curso/temas/tema1/14.png', alt='', style="max-width: 95px")
             .col
-              p.mb-0 <b>Segundo Invierno IA:</b> Se da el segundo invierno en la IA por la combinación de expectativas no cumplidas, las limitaciones tecnológicas del momento y los fracasos comerciales que se habían tenido.
+              p.mb-0 <b>Segundo Invierno IA:</b> se da el segundo invierno en la IA por la combinación de expectativas no cumplidas, las limitaciones tecnológicas del momento y los fracasos comerciales que se habían tenido.
           .row(titulo="1997").align-items-center
             .col-auto
               img(src='@/assets/curso/temas/tema1/15.png', alt='', style="max-width: 95px")
             .col  
-              p.mb-0 <b><em>Deep Blue</em>:</b> <em>Deep Blue</em>, una supercomputadora creada por IBM, vence al campeón mundial de ajedrez Garry Kasparov, lo que marca un hito y hace renacer el interés por la IA.
+              p.mb-0 <b><em>Deep Blue</em>:</b> una supercomputadora creada por IBM, vence al campeón mundial de ajedrez Garry Kasparov, lo que marca un hito y hace renacer el interés por la IA.
               
         
     .titulo-con-imagen.mb-5(data-aos="fade-right")
@@ -188,19 +188,19 @@
                 img(src='@/assets/curso/temas/tema1/23.png', alt='')
           .row(numero="2018" titulo="BERT, un modelo de lenguaje").align-items-center
             .col-md-9.mb-4.mb-md-0.order-2
-              p.mb-0 BERT, un modelo de procesamiento de lenguaje natural desarrollado por Google, logra comprender el contexto de las palabras en una oración o en una pregunta e interactuar respondiendo.
+              p.mb-0 Es un modelo de procesamiento de lenguaje natural desarrollado por Google, logra comprender el contexto de las palabras en una oración o en una pregunta e interactuar respondiendo.
             .col-md-3.order-1
               figure
                 img(src='@/assets/curso/temas/tema1/24.png', alt='')
-          .row(numero="2019" titulo=" GPT-2 y GPT-3").align-items-center
+          .row(numero="2019" titulo=" GPT-2").align-items-center
             .col-md-9.mb-4.mb-md-0.order-2
-              p.mb-0 Avances en generación de texto: la empresa OpenAI lanza los modelos GPT-2 y GPT-3, sistemas de inteligencia artificial con la capacidad de generar texto fluido, coherente y de alta calidad como respuesta a pocas instrucciones.
+              p.mb-0 OpenAI lanza GPT-2, un modelo avanzado de generación de texto capaz de producir contenido coherente y fluido a partir de instrucciones mínimas.
             .col-md-3.order-1
               figure
                 img(src='@/assets/curso/temas/tema1/25.png', alt='')
-          .row(numero="2020" titulo="IA en la pandemia de COVID-19").align-items-center
+          .row(numero="2020" titulo="GPT-3 y la IA frente a la pandemia").align-items-center
             .col-md-9.mb-4.mb-md-0.order-2
-              p.mb-0 La IA es utilizada para trabajar y responder con mayor rapidez al rastreo de contagios, análisis de datos médicos y el aceleramiento en el desarrollo de vacunas para combatir la COVID-19.
+              p.mb-0 OpenAI presenta GPT-3, un modelo con 175 mil millones de parámetros que supera ampliamente a su antecesor. Además, la inteligencia artificial se aplica para rastrear contagios, analizar datos médicos y acelerar el desarrollo de vacunas durante la emergencia sanitaria por la COVID-19.
             .col-md-3.order-1
               figure
                 img(src='@/assets/curso/temas/tema1/26.png', alt='')
@@ -216,7 +216,18 @@
             .col-md-3.order-1
               figure
                 img(src='@/assets/curso/temas/tema1/28.png', alt='')
-
+          .row(numero="2024" titulo="IA generativa en educación, salud y justicia").align-items-center
+            .col-md-9.mb-4.mb-md-0.order-2
+              p.mb-0 El uso de modelos como ChatGPT y Gemini se consolida en instituciones educativas, sistemas de salud y procesos judiciales. Se desarrollan herramientas adaptadas para crear contenidos educativos, apoyar diagnósticos médicos y redactar documentos legales, promoviendo mayor acceso y personalización en estos sectores.
+            .col-md-3.order-1
+              figure
+                img(src='@/assets/curso/temas/tema1/52.png', alt='')
+          .row(numero="Actualidad" titulo="Avances en IA autónoma y regulación global").align-items-center
+            .col-md-9.mb-4.mb-md-0.order-2
+              p.mb-0 Se desarrollan agentes autónomos capaces de tomar decisiones complejas en tiempo real, integrándose en procesos empresariales, logísticos y de atención al cliente. Paralelamente, organismos internacionales impulsan acuerdos sobre la regulación ética y el uso responsable de la inteligencia artificial, marcando un hito en la gobernanza tecnológica global.
+            .col-md-3.order-1
+              figure
+                img(src='@/assets/curso/temas/tema1/53.png', alt='')
 
     separador
 
@@ -279,7 +290,7 @@
               .bg-color-white.p-4.h-100.shadow-app.tarjeta
                 img(src='@/assets/curso/temas/tema1/36.png' alt='AvatarTop' , style="max-width: 90px").mx-auto.mb-3
                 h4.text-center.mb-4 Filtros y reconocimiento facial
-                p.text-center Aplicaciones que aplican filtros para retocar las fotografías que se montan a redes sociales o que permiten desbloquear el teléfono con el rostro.
+                p.text-center Aplicaciones que utilizan filtros para retocar las fotografías que se montan a redes sociales o que permiten desbloquear el teléfono con el rostro.
     
           .col-lg-4.order-1
             figure.position-relative
@@ -433,8 +444,6 @@
             img(src="@/assets/curso/temas/tema1/51.png", style="max-width: 90px").mx-auto
           .col-lg
             p.mb-0.text-white Actualmente, la IA ha transformado considerablemente el desarrollo de <em>software</em>, automatizando tareas repetitivas, mejorando la productividad, optimizando la toma de decisiones, facilitando las pruebas y las depuraciones, permitiendo la personalización de las experiencias de usuarios y prediciendo las tendencias del mercado. Con el desarrollo de estas capacidades de la IA, se ha impulsado la eficiencia, la calidad y se sigue innovando en la programación moderna (Sancho, 2023).
-    
-        
 
 </template>
 
