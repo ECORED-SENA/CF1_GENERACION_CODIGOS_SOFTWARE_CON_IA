@@ -2,7 +2,7 @@
 .curso-main-container.pb-3
   BannerInterno
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5
-    .titulo-principal.color-acento-contenido
+    .titulo-principal.color-acento-contenido(data-aos="flip-up")
       .titulo-principal__numero
         span 1
       h1 Inteligencia artificial
@@ -222,7 +222,7 @@
             .col-md-3.order-1
               figure
                 img(src='@/assets/curso/temas/tema1/52.png', alt='')
-          .row(numero="Actualidad" titulo="Avances en IA autónoma y regulación global").align-items-center
+          .row(numero="2025" titulo="Avances en IA autónoma y regulación global").align-items-center
             .col-md-9.mb-4.mb-md-0.order-2
               p.mb-0 Se desarrollan agentes autónomos capaces de tomar decisiones complejas en tiempo real, integrándose en procesos empresariales, logísticos y de atención al cliente. Paralelamente, organismos internacionales impulsan acuerdos sobre la regulación ética y el uso responsable de la inteligencia artificial, marcando un hito en la gobernanza tecnológica global.
             .col-md-3.order-1
