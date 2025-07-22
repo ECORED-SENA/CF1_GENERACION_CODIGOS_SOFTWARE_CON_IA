@@ -485,7 +485,8 @@
 
     figure
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/yyqbVXeEr2Q?si=hiNYlq-mlCdE7rmt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/tuJhXlC2z1Y?si=4LtzH7MZVT2WwlMH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      figcaption #[b Video.] Aplicando prompt en una Inteligencia artificial generativa (ChatGPT)
     
     separador
 

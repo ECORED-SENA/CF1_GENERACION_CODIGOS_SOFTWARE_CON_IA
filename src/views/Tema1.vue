@@ -240,6 +240,7 @@
     figure
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/PmHKu2hFEI4?si=1q6_GKckYd8uf8mP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      figcaption #[b Video.] Principios fundamentales de la inteligencia artificial
 
     separador
 

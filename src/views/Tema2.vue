@@ -169,6 +169,7 @@
     figure
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/nsiiw1GZHMk?si=nNaY4rVJ7CxfiJvd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      figcaption #[b Video.] Conociendo una inteligencia artificial generativa (ChatGPT)
 
 </template>
 
